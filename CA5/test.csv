@@ -1,0 +1,1001 @@
+car_id,model,year,engine_size,horsepower,fuel_type,transmission,drivetrain,mileage_km,fuel_consumption_l_per_100km,co2_emissions_g_km,doors,seats,body_type,color,owner_count,accident_history,service_history,country_sold,ID
+3430,X3,2024,2.7,259,diesel,automatic,RWD,0,7.0,144.0,5,5,suv,blue,0.0,no,full,Turkey,1501
+7775,3 Series,2011,2.7,199,diesel,automatic,RWD,177234,7.3,169.0,4,5,sedan,silver,,no,full,Germany,2586
+8180,3 Series,2024,2.1,214,diesel,automatic,AWD,0,6.6,134.0,4,5,sedan,white,,no,full,Netherlands,2653
+706,3 Series,2015,1.9,224,petrol,automatic,AWD,83861,7.9,169.0,4,5,sedan,black,1.0,yes,partial,Italy,1055
+9135,3 Series,2009,2.5,263,diesel,manual,RWD,189526,7.1,152.0,4,5,sedan,black,4.0,yes,full,Turkey,705
+1863,5 Series,2015,3.9,332,diesel,automatic,RWD,136171,9.0,191.0,4,5,sedan,white,1.0,no,full,Netherlands,106
+1731,i4,2018,0.0,377,electric,automatic,AWD,61523,0.0,0.0,4,5,coupe,,1.0,no,partial,Germany,589
+6740,1 Series,2021,1.9,203,hybrid,automatic,FWD,49374,5.1,109.0,3,5,hatchback,white,1.0,no,partial,France,2468
+6890,X3,2008,3.4,270,diesel,automatic,AWD,205921,8.7,188.0,5,5,suv,white,3.0,yes,partial,Turkey,2413
+1145,X5,2012,,235,petrol,automatic,AWD,266301,9.1,199.0,5,5,suv,silver,4.0,yes,partial,UK,1600
+8172,5 Series,2023,3.1,291,hybrid,automatic,AWD,4640,5.4,99.0,4,5,sedan,black,1.0,no,full,Turkey,2464
+3435,3 Series,2018,1.7,131,petrol,automatic,RWD,98138,7.6,148.0,4,5,sedan,white,3.0,no,partial,Italy,228
+5129,5 Series,2006,2.5,226,diesel,automatic,RWD,300000,6.9,153.0,4,5,sedan,silver,2.0,yes,full,Spain,915
+587,Z4,2015,2.8,283,petrol,manual,RWD,173737,10.7,230.0,2,2,convertible,white,3.0,no,none,Netherlands,794
+5793,X5,2024,3.7,284,hybrid,automatic,AWD,2061,5.7,114.0,5,5,suv,white,0.0,no,full,France,3021
+2375,i7,2016,0.0,437,electric,automatic,RWD,59139,0.0,0.0,4,4,sedan,black,1.0,no,none,Spain,3543
+3709,1 Series,2015,1.6,260,diesel,automatic,RWD,209979,6.3,135.0,3,5,hatchback,red,1.0,yes,partial,France,1073
+1243,3 Series,2023,2.8,245,hybrid,automatic,RWD,42086,5.3,106.0,4,5,sedan,blue,0.0,no,partial,USA,3351
+2302,3 Series,2022,3.0,257,diesel,automatic,AWD,47482,7.5,171.0,4,5,sedan,white,0.0,no,full,Italy,1744
+7406,3 Series,2009,3.1,238,petrol,manual,AWD,273142,9.4,216.0,4,5,sedan,red,4.0,yes,full,France,1084
+2421,5 Series,2023,3.2,281,diesel,automatic,AWD,37170,8.4,177.0,4,5,sedan,silver,1.0,no,full,Italy,926
+3816,Z4,2018,2.4,245,petrol,automatic,RWD,39965,8.8,198.0,2,2,convertible,white,2.0,no,partial,USA,3049
+3206,X1,2022,,196,hybrid,automatic,FWD,29877,4.8,121.0,5,5,suv,white,1.0,no,partial,UK,1117
+8268,5 Series,2021,2.0,145,hybrid,automatic,RWD,35987,4.1,63.0,4,5,sedan,grey,2.0,yes,full,USA,642
+5764,X1,2006,1.7,218,diesel,automatic,FWD,300000,6.4,142.0,5,5,suv,white,3.0,yes,partial,Netherlands,4767
+6214,1 Series,2022,2.9,252,petrol,automatic,RWD,24498,8.9,198.0,3,5,hatchback,silver,0.0,no,full,Netherlands,501
+7518,5 Series,2007,3.0,272,hybrid,automatic,RWD,282041,5.8,123.0,4,5,sedan,red,3.0,yes,full,USA,4066
+2030,X5,2021,3.5,317,hybrid,automatic,AWD,54769,6.2,156.0,5,5,suv,silver,0.0,no,full,Germany,333
+8292,7 Series,2010,5.0,412,diesel,automatic,AWD,102939,10.7,233.0,4,5,sedan,black,2.0,no,partial,Germany,4684
+5886,5 Series,2020,2.4,242,hybrid,automatic,AWD,32876,5.4,122.0,4,5,sedan,red,1.0,no,full,Italy,486
+7890,X1,2016,1.7,178,petrol,automatic,FWD,51318,7.8,172.0,5,5,suv,silver,1.0,no,partial,USA,1962
+3239,X5,2016,3.6,349,petrol,automatic,AWD,148794,9.9,218.0,5,5,suv,black,2.0,no,none,UK,393
+4766,X7,2019,3.4,273,petrol,automatic,AWD,81676,9.8,217.0,5,5,suv,,3.0,no,full,UK,4842
+5456,1 Series,2020,2.8,332,petrol,automatic,FWD,82662,8.7,196.0,5,4,hatchback,white,1.0,no,full,USA,4866
+8653,1 Series,2009,2.7,214,diesel,automatic,RWD,275161,7.7,179.0,5,5,hatchback,silver,5.0,no,full,UK,1755
+8666,1 Series,2010,2.1,213,petrol,manual,FWD,273427,8.0,175.0,3,4,hatchback,white,2.0,no,partial,Spain,2515
+8864,i4,2013,0.0,501,electric,automatic,AWD,166872,,0.0,4,5,coupe,black,2.0,yes,none,Italy,3585
+4142,X1,2024,1.6,142,diesel,automatic,FWD,0,6.2,147.0,5,5,suv,red,1.0,no,full,UK,4315
+3410,i4,2021,0.0,336,electric,automatic,RWD,34215,0.0,0.0,4,5,coupe,silver,1.0,no,partial,USA,4966
+6557,Z4,2019,2.9,217,petrol,automatic,RWD,35315,9.0,193.0,2,2,convertible,silver,2.0,no,partial,France,2099
+7752,3 Series,2011,1.7,229,hybrid,automatic,RWD,161567,5.2,118.0,4,5,sedan,silver,3.0,no,none,France,3599
+2227,X3,2020,3.2,250,petrol,automatic,AWD,88085,9.3,196.0,5,5,suv,white,1.0,yes,full,Italy,4121
+8848,1 Series,2018,1.6,156,hybrid,automatic,RWD,128437,4.5,112.0,3,5,hatchback,red,2.0,no,full,Germany,29
+8188,X1,2019,1.6,227,petrol,automatic,FWD,77734,7.2,156.0,5,5,suv,white,2.0,no,full,France,65
+8361,1 Series,2020,2.1,211,diesel,automatic,RWD,78587,6.7,152.0,3,4,hatchback,black,0.0,no,full,Italy,838
+3929,X5,2021,3.0,326,petrol,automatic,AWD,42678,10.3,,5,5,suv,black,0.0,no,full,Netherlands,3906
+217,5 Series,2020,4.0,327,diesel,automatic,RWD,46112,9.9,212.0,4,5,sedan,black,1.0,no,full,Spain,3773
+2124,X5,2011,4.1,408,diesel,automatic,AWD,152428,9.6,199.0,5,5,suv,white,3.0,yes,none,Germany,4635
+1599,5 Series,2022,2.8,248,diesel,automatic,RWD,28495,7.5,170.0,4,5,sedan,silver,1.0,no,full,Spain,3161
+4555,X1,2014,1.8,136,petrol,automatic,FWD,89954,7.7,177.0,5,5,suv,red,1.0,no,full,USA,2659
+6018,3 Series,2010,3.4,279,diesel,automatic,RWD,221996,8.0,183.0,4,5,sedan,grey,4.0,no,none,Germany,4615
+125,3 Series,2018,3.0,246,petrol,automatic,RWD,81690,9.2,209.0,4,5,sedan,black,4.0,no,full,Netherlands,4628
+7208,X3,2019,3.2,289,hybrid,automatic,RWD,87344,6.6,142.0,5,5,suv,red,3.0,no,partial,Spain,2451
+8656,1 Series,2018,2.2,255,diesel,manual,RWD,87134,7.6,157.0,5,5,hatchback,black,1.0,no,partial,UK,2846
+4049,X1,2011,2.3,158,hybrid,automatic,FWD,117354,4.9,106.0,5,5,suv,white,5.0,no,full,Turkey,1144
+9196,X7,2014,3.8,300,hybrid,automatic,AWD,119480,6.2,123.0,5,5,suv,white,2.0,no,full,Spain,3078
+7655,1 Series,2011,3.0,190,petrol,,FWD,208106,9.1,203.0,5,4,hatchback,blue,3.0,yes,partial,Italy,1103
+8021,7 Series,2024,0.0,436,electric,automatic,AWD,0,0.0,0.0,4,4,sedan,silver,0.0,no,partial,Germany,168
+5624,X3,2008,2.5,246,diesel,automatic,RWD,104416,6.8,143.0,5,5,suv,black,3.0,no,full,UK,1670
+679,3 Series,2008,2.2,224,hybrid,manual,AWD,298558,5.1,122.0,4,5,sedan,black,2.0,yes,partial,Netherlands,2570
+4193,1 Series,2022,1.5,200,petrol,automatic,FWD,29992,7.2,158.0,3,4,hatchback,black,2.0,no,full,France,2377
+7107,X1,2022,1.8,213,petrol,automatic,AWD,38109,8.0,170.0,5,5,suv,black,1.0,no,partial,Netherlands,4395
+756,X5,2021,3.8,302,petrol,automatic,AWD,24413,11.2,244.0,5,5,suv,black,1.0,no,full,Netherlands,4257
+623,X3,2015,3.3,309,petrol,automatic,AWD,142435,9.9,225.0,5,5,suv,black,2.0,no,full,Turkey,3862
+9486,i3,2012,0.0,169,electric,automatic,RWD,176018,0.0,0.0,5,4,hatchback,white,4.0,no,partial,France,23
+7703,i7,2022,0.0,407,electric,automatic,RWD,61076,0.0,0.0,4,5,sedan,red,0.0,no,,Spain,2633
+7239,5 Series,2011,3.3,257,petrol,automatic,RWD,300000,9.6,219.0,4,5,sedan,silver,2.0,yes,,Spain,3340
+3722,X1,2009,2.4,245,diesel,automatic,FWD,227395,7.4,166.0,5,5,suv,white,4.0,yes,partial,Italy,2215
+4281,X3,2010,3.4,269,hybrid,automatic,AWD,248354,6.1,138.0,5,5,suv,black,3.0,yes,partial,UK,3682
+6837,5 Series,2014,3.1,362,petrol,automatic,RWD,65143,10.1,215.0,4,5,sedan,,2.0,no,full,Italy,4724
+8794,5 Series,2023,3.9,342,petrol,automatic,AWD,28365,10.1,221.0,4,5,sedan,white,1.0,no,full,USA,1907
+5862,X3,2017,2.7,176,petrol,automatic,RWD,70999,8.6,203.0,5,5,suv,,2.0,yes,full,Italy,84
+7378,7 Series,2022,4.4,378,diesel,automatic,AWD,43801,10.0,211.0,4,5,sedan,blue,1.0,yes,full,France,227
+7643,X3,2010,2.2,218,diesel,automatic,RWD,155028,7.1,159.0,5,5,suv,white,4.0,yes,full,Spain,296
+4783,X5,2020,4.0,342,hybrid,automatic,AWD,72845,6.9,154.0,5,5,suv,blue,2.0,yes,full,France,1001
+4510,3 Series,2005,3.0,237,diesel,automatic,AWD,300000,7.0,149.0,4,5,sedan,red,4.0,yes,partial,Netherlands,2138
+961,i3,2008,0.0,129,electric,automatic,RWD,228320,0.0,0.0,5,4,hatchback,silver,4.0,no,none,Turkey,711
+9219,3 Series,2006,2.4,265,hybrid,manual,AWD,300000,5.0,110.0,4,5,sedan,blue,2.0,yes,partial,France,2801
+8890,X5,2023,4.2,324,diesel,automatic,AWD,24094,10.0,225.0,5,5,suv,black,1.0,yes,full,France,2527
+7763,3 Series,2010,1.9,190,hybrid,automatic,RWD,203578,4.2,82.0,4,5,sedan,white,3.0,yes,full,UK,3752
+7734,X3,2011,2.5,216,petrol,automatic,AWD,170744,8.1,171.0,5,5,suv,black,4.0,no,partial,Spain,3321
+7363,i3,2017,0.0,176,electric,automatic,RWD,79355,0.0,0.0,5,4,hatchback,black,1.0,no,full,Turkey,3181
+3515,Z4,2008,2.8,294,petrol,automatic,RWD,241127,,227.0,2,2,convertible,grey,4.0,yes,full,Netherlands,4183
+829,X7,2010,4.0,333,diesel,automatic,AWD,134355,9.3,193.0,5,5,suv,silver,4.0,yes,none,Spain,1615
+6031,X5,2019,3.8,311,hybrid,automatic,AWD,95653,6.2,125.0,5,5,suv,silver,1.0,no,,Netherlands,3024
+2110,i3,2009,0.0,194,electric,automatic,RWD,255759,0.0,0.0,5,4,hatchback,,3.0,yes,partial,UK,1413
+6940,X5,2018,3.1,292,diesel,automatic,AWD,55729,8.1,174.0,5,5,suv,silver,3.0,yes,full,Turkey,763
+9575,X5,2023,3.5,263,diesel,automatic,AWD,0,7.9,165.0,5,5,suv,blue,,no,full,Netherlands,655
+585,5 Series,2007,3.8,344,diesel,automatic,AWD,167232,9.2,194.0,4,5,sedan,silver,5.0,no,partial,France,4797
+4158,3 Series,2016,3.1,252,hybrid,automatic,RWD,67274,5.0,117.0,4,5,sedan,silver,1.0,no,full,USA,3849
+9916,1 Series,2024,1.9,216,diesel,automatic,RWD,0,7.1,147.0,5,4,hatchback,red,1.0,no,full,Germany,4153
+3474,X1,2019,1.6,182,petrol,automatic,AWD,85639,7.6,151.0,5,5,suv,red,2.0,no,partial,Netherlands,468
+32,i3,2006,,141,electric,automatic,RWD,300000,0.0,0.0,5,4,hatchback,silver,3.0,,full,Netherlands,157
+3083,3 Series,2012,2.5,246,hybrid,automatic,AWD,181184,5.5,120.0,4,5,sedan,black,2.0,yes,full,France,1295
+2523,7 Series,2011,3.2,294,petrol,automatic,RWD,148353,9.8,215.0,4,4,sedan,silver,2.0,no,full,Turkey,497
+8315,Z4,2012,2.9,225,petrol,manual,RWD,120313,8.7,185.0,2,2,convertible,blue,2.0,yes,partial,Spain,4740
+1566,1 Series,2014,1.9,169,diesel,manual,FWD,182464,6.1,133.0,3,5,hatchback,silver,3.0,no,partial,UK,2940
+9076,3 Series,2018,1.9,261,petrol,automatic,AWD,99884,8.1,179.0,4,5,sedan,white,2.0,no,full,USA,3456
+1122,5 Series,2012,3.4,303,hybrid,automatic,RWD,136561,6.6,135.0,4,5,sedan,white,5.0,no,partial,UK,373
+2021,3 Series,2008,2.5,241,petrol,automatic,AWD,268545,8.3,175.0,4,5,sedan,grey,4.0,,full,UK,79
+3583,3 Series,2016,2.0,229,hybrid,automatic,RWD,113424,4.4,96.0,4,5,sedan,blue,1.0,yes,partial,Spain,1553
+9509,X1,2013,1.6,185,diesel,automatic,AWD,209814,5.6,136.0,5,5,suv,blue,3.0,yes,partial,Netherlands,1669
+9677,X1,2018,2.4,231,hybrid,automatic,FWD,89839,4.5,,5,5,suv,black,3.0,no,none,Germany,2131
+5260,i3,2021,0.0,171,electric,automatic,RWD,17891,0.0,0.0,5,4,hatchback,black,0.0,no,full,Netherlands,4439
+8945,1 Series,2009,1.9,217,diesel,manual,FWD,176059,6.9,156.0,3,5,hatchback,white,3.0,yes,full,UK,465
+3016,X5,2018,3.6,332,petrol,automatic,AWD,48588,9.6,209.0,5,5,suv,black,4.0,yes,full,Italy,248
+5332,X3,2015,3.1,279,diesel,automatic,RWD,97281,8.1,179.0,5,5,suv,white,3.0,no,partial,USA,931
+2955,X1,2005,1.8,174,hybrid,automatic,AWD,224704,4.3,73.0,5,5,suv,silver,4.0,no,full,Italy,1335
+8346,X1,2020,1.6,165,diesel,automatic,FWD,17033,5.3,120.0,5,5,suv,black,1.0,no,full,Germany,4524
+8923,X1,2007,1.8,190,hybrid,,AWD,184188,5.0,98.0,5,5,suv,white,5.0,yes,partial,Spain,1338
+4345,X7,2017,3.7,357,petrol,automatic,AWD,143219,10.2,241.0,5,5,suv,black,3.0,no,full,UK,1406
+6801,X3,2009,2.8,224,hybrid,,RWD,168868,5.2,129.0,5,5,suv,white,2.0,yes,full,Netherlands,1090
+1159,X1,2018,1.6,266,petrol,automatic,AWD,125102,7.8,188.0,5,5,suv,silver,1.0,no,full,Germany,4209
+48,X5,2018,4.4,357,petrol,automatic,AWD,93440,,242.0,5,5,suv,white,1.0,no,full,Netherlands,742
+3111,X5,2012,3.3,305,hybrid,automatic,AWD,273980,5.6,125.0,5,5,suv,grey,4.0,yes,partial,Spain,2323
+3419,X3,2006,3.4,346,petrol,automatic,RWD,121807,9.0,191.0,5,5,suv,black,3.0,no,full,Italy,3601
+3686,X7,2023,3.2,274,petrol,automatic,AWD,31797,9.5,211.0,5,5,suv,white,0.0,no,full,France,2123
+386,Z4,2021,2.5,261,petrol,automatic,RWD,61103,8.5,182.0,2,2,convertible,white,0.0,no,full,USA,2094
+7808,X5,2022,3.7,305,petrol,automatic,AWD,35720,10.3,222.0,5,5,suv,black,1.0,no,full,Italy,240
+2949,X5,2022,4.0,331,petrol,automatic,AWD,1845,10.3,212.0,5,5,suv,red,0.0,no,partial,UK,2351
+5397,1 Series,2022,2.2,172,petrol,automatic,RWD,34212,7.6,179.0,3,4,hatchback,blue,0.0,no,full,Germany,1370
+5577,3 Series,2006,2.8,296,diesel,automatic,RWD,250274,8.2,169.0,4,5,sedan,black,4.0,no,none,UK,1057
+9674,i3,2021,0.0,194,electric,automatic,RWD,46170,0.0,0.0,5,4,hatchback,silver,0.0,no,partial,Spain,4816
+3913,5 Series,2019,2.8,253,petrol,automatic,AWD,91216,8.8,205.0,4,5,sedan,silver,2.0,no,partial,Netherlands,199
+412,Z4,2022,2.5,232,petrol,automatic,RWD,16139,9.0,198.0,2,2,convertible,grey,1.0,no,partial,UK,2280
+3581,5 Series,2023,2.2,155,diesel,automatic,AWD,12817,7.0,160.0,4,5,sedan,blue,0.0,no,full,Spain,4749
+7426,X5,2012,4.2,376,diesel,automatic,AWD,158000,9.9,214.0,5,5,suv,silver,3.0,no,partial,France,2220
+5035,X3,2021,3.0,251,hybrid,automatic,RWD,44539,5.5,106.0,5,5,suv,blue,2.0,no,full,Italy,4771
+545,X5,2009,,253,hybrid,automatic,AWD,237016,5.8,135.0,5,5,suv,blue,3.0,no,full,Spain,2819
+556,X3,2012,3.0,314,petrol,automatic,AWD,165239,9.2,184.0,5,5,suv,black,2.0,yes,full,USA,3150
+1870,X3,2023,2.3,231,diesel,automatic,RWD,7783,7.3,171.0,5,5,suv,grey,0.0,no,full,Spain,4256
+4565,X3,2020,2.0,257,diesel,automatic,RWD,43831,5.9,139.0,5,5,suv,white,2.0,no,full,Italy,3107
+551,X1,2016,1.7,133,petrol,automatic,FWD,222000,7.1,151.0,5,5,suv,black,3.0,no,partial,Germany,1973
+2211,X3,2022,3.1,265,hybrid,automatic,RWD,32566,6.4,135.0,5,5,suv,black,0.0,no,partial,UK,1375
+2985,X5,2014,4.4,384,diesel,automatic,AWD,246131,10.3,220.0,5,5,suv,blue,1.0,no,full,Germany,3968
+2939,X1,2005,1.9,216,petrol,automatic,FWD,300000,7.6,171.0,5,5,suv,black,4.0,no,partial,USA,4062
+8913,X5,2012,3.5,325,diesel,automatic,AWD,184505,8.2,175.0,5,5,suv,white,2.0,yes,full,Germany,4445
+9611,X3,2019,2.2,202,hybrid,automatic,AWD,28589,5.6,118.0,5,5,suv,silver,3.0,no,partial,Germany,3557
+8533,Z4,2005,2.8,246,petrol,manual,RWD,227194,9.6,212.0,2,2,convertible,red,5.0,yes,partial,Germany,964
+5911,3 Series,2012,2.8,227,petrol,automatic,AWD,146642,8.5,189.0,4,5,sedan,grey,2.0,no,full,Spain,179
+1224,X5,2024,3.2,265,hybrid,automatic,AWD,4057,5.8,135.0,5,5,suv,silver,0.0,no,full,Netherlands,3698
+5849,3 Series,2010,2.1,220,petrol,manual,RWD,249198,8.1,171.0,4,5,sedan,blue,4.0,yes,partial,Germany,3821
+9627,Z4,2022,2.6,212,petrol,automatic,RWD,23583,8.6,183.0,2,2,convertible,white,1.0,no,partial,USA,4878
+8471,X5,2023,4.2,348,petrol,automatic,AWD,3150,10.6,237.0,5,5,suv,black,0.0,no,partial,Netherlands,3899
+9126,X3,2019,2.9,239,petrol,automatic,AWD,83307,9.3,197.0,5,5,suv,black,2.0,no,full,Italy,4487
+9535,3 Series,2013,2.0,205,petrol,,RWD,107653,8.6,195.0,4,5,sedan,white,3.0,no,full,Spain,3238
+4620,X3,2020,3.2,247,diesel,automatic,RWD,78496,8.2,180.0,5,5,suv,black,2.0,no,full,France,2974
+848,X5,2016,4.2,303,hybrid,automatic,AWD,155434,6.7,142.0,5,5,suv,black,3.0,no,partial,Netherlands,3580
+2971,3 Series,2022,2.6,212,hybrid,automatic,AWD,13422,4.8,103.0,4,5,sedan,white,1.0,no,full,Spain,2887
+958,5 Series,2019,2.1,299,petrol,automatic,RWD,73698,8.3,174.0,4,5,sedan,red,1.0,no,full,Turkey,2575
+5946,3 Series,2024,2.3,232,diesel,manual,AWD,0,7.1,157.0,4,5,sedan,black,0.0,no,full,Turkey,1419
+3618,X1,2017,1.8,177,hybrid,automatic,AWD,161587,3.9,95.0,5,5,suv,blue,1.0,no,partial,Spain,3907
+2398,X7,2013,,331,petrol,automatic,AWD,142629,9.7,206.0,5,5,suv,black,2.0,no,full,UK,4673
+1052,i7,2012,0.0,462,electric,automatic,AWD,194650,0.0,0.0,4,4,sedan,silver,3.0,no,full,Turkey,4902
+4344,X3,2022,3.5,301,diesel,automatic,RWD,24305,8.9,202.0,5,5,suv,black,0.0,no,full,France,1860
+6364,Z4,2020,3.0,244,petrol,,RWD,45150,9.0,226.0,2,2,convertible,grey,0.0,no,full,Germany,8
+9014,X1,2007,1.7,172,hybrid,automatic,AWD,275521,5.0,105.0,5,5,suv,red,3.0,yes,full,USA,2894
+6917,3 Series,2007,1.9,209,diesel,automatic,AWD,220437,6.2,133.0,4,5,sedan,black,5.0,yes,partial,Turkey,2847
+8733,3 Series,2015,1.7,180,petrol,manual,RWD,155419,7.9,173.0,4,5,sedan,blue,1.0,no,full,France,3664
+7888,3 Series,2010,,192,hybrid,automatic,RWD,259269,4.4,84.0,4,5,sedan,black,4.0,yes,partial,UK,144
+5364,X3,2024,3.2,316,diesel,automatic,RWD,0,7.8,180.0,5,5,suv,black,0.0,no,full,Italy,2104
+6042,X1,2009,1.6,148,diesel,automatic,FWD,181153,6.5,160.0,5,5,suv,black,4.0,yes,,Italy,3143
+7728,5 Series,2020,2.6,223,petrol,automatic,AWD,42058,8.7,192.0,4,5,sedan,silver,2.0,yes,full,Spain,841
+3575,i7,2008,0.0,360,electric,automatic,AWD,270882,0.0,0.0,4,4,sedan,white,4.0,no,full,France,1128
+6040,X7,2006,3.6,281,diesel,automatic,AWD,300000,8.7,187.0,5,5,suv,black,5.0,no,full,Netherlands,151
+4751,Z4,2007,2.7,310,petrol,manual,RWD,300000,9.4,208.0,2,2,convertible,grey,5.0,yes,full,Germany,3591
+2246,X7,2015,3.5,224,petrol,automatic,AWD,170136,9.7,211.0,5,5,suv,black,2.0,no,,Italy,1052
+9547,X1,2019,2.0,157,hybrid,automatic,AWD,91906,4.9,101.0,5,5,suv,white,3.0,no,full,USA,1590
+4098,5 Series,2020,3.0,288,diesel,automatic,RWD,27895,7.6,160.0,4,5,sedan,silver,2.0,no,full,Spain,3008
+719,X3,2024,2.4,232,hybrid,automatic,RWD,0,5.2,108.0,5,5,suv,silver,0.0,no,full,Netherlands,2029
+7719,7 Series,2019,0.0,441,electric,automatic,RWD,127346,0.0,0.0,4,5,sedan,blue,1.0,no,full,USA,3418
+4693,X1,2020,,218,diesel,automatic,FWD,60490,5.7,,5,5,suv,white,0.0,yes,partial,Netherlands,1807
+2527,5 Series,2012,2.4,234,hybrid,automatic,AWD,183196,5.0,107.0,4,5,sedan,black,2.0,,,Turkey,2696
+5369,5 Series,2022,3.6,343,petrol,,RWD,36226,9.6,195.0,4,5,sedan,white,1.0,no,full,Germany,3039
+5482,1 Series,2022,2.7,239,diesel,automatic,RWD,23577,7.1,146.0,5,5,hatchback,silver,1.0,yes,full,Germany,472
+6068,5 Series,2015,4.2,349,petrol,automatic,AWD,120077,11.4,243.0,4,5,sedan,blue,3.0,no,partial,Netherlands,3289
+3574,X7,2012,4.1,325,petrol,automatic,AWD,146577,10.3,,5,5,suv,black,2.0,no,full,Spain,4074
+6391,5 Series,2018,4.2,336,petrol,automatic,AWD,63554,11.2,240.0,4,5,sedan,black,2.0,no,full,UK,3496
+5267,X1,2019,2.1,159,hybrid,automatic,AWD,58082,4.9,117.0,5,5,suv,blue,1.0,no,full,UK,279
+8181,3 Series,2019,3.2,283,hybrid,automatic,RWD,40884,5.5,108.0,4,5,sedan,silver,3.0,yes,partial,Italy,1741
+6019,1 Series,2017,2.7,260,diesel,automatic,FWD,116046,8.0,173.0,5,5,hatchback,silver,2.0,no,full,USA,4624
+2831,X7,2022,4.2,355,petrol,automatic,AWD,44021,11.5,259.0,5,5,suv,black,1.0,no,full,USA,2886
+8686,3 Series,2019,1.7,268,petrol,automatic,AWD,76870,7.9,152.0,4,5,sedan,white,1.0,no,full,Germany,1941
+765,X5,2017,3.3,248,hybrid,automatic,AWD,43346,6.1,126.0,5,5,suv,silver,3.0,no,full,Turkey,100
+1420,1 Series,2010,2.1,182,hybrid,manual,RWD,211393,4.5,104.0,3,5,hatchback,black,5.0,no,partial,UK,2804
+9472,X1,2013,2.1,206,diesel,automatic,AWD,196991,7.1,146.0,5,5,suv,blue,4.0,no,full,France,3570
+8987,7 Series,2019,0.0,579,electric,automatic,RWD,87461,0.0,0.0,4,4,sedan,black,2.0,yes,partial,France,3684
+1470,i4,2014,0.0,313,electric,automatic,AWD,169177,0.0,0.0,4,5,coupe,black,3.0,no,full,Germany,3661
+3034,7 Series,2019,4.8,390,hybrid,automatic,RWD,51138,7.7,178.0,4,4,sedan,white,1.0,no,full,USA,530
+6401,i7,2024,0.0,393,electric,automatic,RWD,0,0.0,0.0,4,4,sedan,silver,0.0,no,,Turkey,1886
+9,X1,2013,1.8,171,petrol,automatic,AWD,170822,7.6,166.0,5,5,suv,silver,2.0,no,full,France,681
+6674,3 Series,2018,3.2,292,diesel,automatic,RWD,134881,8.4,193.0,4,5,sedan,black,1.0,,,Italy,3794
+1984,5 Series,2017,3.9,359,diesel,automatic,RWD,94972,9.4,202.0,4,5,sedan,black,2.0,no,full,Netherlands,3944
+5024,1 Series,2019,2.0,179,hybrid,manual,RWD,75799,4.0,86.0,5,5,hatchback,white,2.0,no,full,Spain,4666
+4630,X3,2014,3.0,200,diesel,automatic,AWD,155358,7.8,170.0,5,5,suv,white,2.0,yes,partial,Germany,2018
+8931,5 Series,2015,3.2,280,hybrid,automatic,AWD,127959,5.5,132.0,4,5,sedan,black,1.0,no,none,Netherlands,1096
+9994,i7,2019,0.0,549,electric,automatic,RWD,75509,0.0,0.0,4,5,sedan,,1.0,no,,UK,829
+9517,1 Series,2024,2.3,186,petrol,,RWD,3982,8.0,187.0,5,4,hatchback,white,0.0,no,full,Germany,2805
+7929,5 Series,2021,2.4,232,diesel,automatic,AWD,30505,,150.0,4,5,sedan,black,1.0,no,full,Spain,3829
+4079,3 Series,2008,2.1,229,petrol,automatic,AWD,236821,7.6,165.0,4,5,sedan,silver,4.0,no,full,Turkey,4381
+9258,X7,2017,4.1,356,petrol,automatic,AWD,146487,10.4,234.0,5,5,suv,black,3.0,no,,France,3891
+966,i7,2019,0.0,553,electric,automatic,AWD,79475,0.0,0.0,4,5,sedan,silver,2.0,no,full,France,764
+9428,7 Series,2021,4.2,300,diesel,automatic,RWD,34882,9.3,195.0,4,5,sedan,,1.0,no,full,Netherlands,2767
+4506,X7,2008,3.7,345,hybrid,automatic,AWD,300000,7.0,157.0,5,5,suv,blue,5.0,no,partial,UK,4328
+1745,X3,2017,2.1,149,hybrid,automatic,AWD,162655,,113.0,5,5,suv,black,1.0,no,partial,Spain,3295
+4575,5 Series,2020,4.2,311,diesel,automatic,AWD,40091,9.7,226.0,4,5,sedan,blue,1.0,yes,full,UK,2194
+4985,3 Series,2018,3.5,299,diesel,automatic,RWD,13974,8.4,186.0,4,5,sedan,black,2.0,yes,full,Italy,2357
+2945,3 Series,2009,3.3,293,petrol,manual,AWD,218013,10.8,226.0,4,5,sedan,blue,3.0,yes,partial,Germany,3425
+3885,X1,2019,1.6,152,petrol,automatic,AWD,61291,6.9,159.0,5,5,suv,red,2.0,no,partial,Spain,3979
+5852,5 Series,2023,4.2,347,petrol,automatic,AWD,34485,12.3,271.0,4,5,sedan,black,0.0,no,full,UK,911
+3446,5 Series,2019,2.2,231,hybrid,automatic,AWD,67424,5.0,112.0,4,5,sedan,black,1.0,no,partial,UK,3145
+7714,i7,2020,0.0,436,electric,automatic,RWD,34713,0.0,0.0,4,5,sedan,white,1.0,no,full,UK,999
+415,7 Series,2019,0.0,366,electric,automatic,AWD,154163,0.0,0.0,4,4,sedan,white,1.0,yes,full,France,3653
+3245,X1,2022,2.0,222,petrol,automatic,AWD,28960,8.0,180.0,5,5,suv,white,0.0,no,full,France,2483
+8912,i3,2015,0.0,135,electric,automatic,RWD,128549,0.0,0.0,5,4,hatchback,,1.0,no,partial,USA,4076
+1018,i3,2019,0.0,184,electric,automatic,RWD,62166,0.0,0.0,5,4,hatchback,black,4.0,yes,full,UK,2370
+5664,i4,2021,0.0,338,electric,automatic,AWD,31858,0.0,0.0,4,5,coupe,black,0.0,no,full,Netherlands,4838
+4950,X5,2017,3.7,347,hybrid,automatic,AWD,71462,5.8,120.0,5,5,suv,red,1.0,no,partial,France,33
+1216,1 Series,2006,3.0,262,hybrid,automatic,FWD,284203,5.7,123.0,5,5,hatchback,silver,4.0,yes,none,UK,3789
+6769,i4,2020,0.0,343,electric,automatic,RWD,50687,0.0,0.0,4,5,coupe,white,1.0,no,full,Italy,1020
+8851,5 Series,2010,3.2,292,hybrid,automatic,RWD,300000,6.0,132.0,4,5,sedan,silver,2.0,no,full,UK,1647
+9149,X5,2018,3.2,257,diesel,automatic,AWD,67383,8.3,186.0,5,5,suv,silver,2.0,no,partial,UK,733
+8294,X5,2021,4.4,373,hybrid,automatic,AWD,88912,7.0,152.0,5,5,suv,black,2.0,yes,none,Turkey,4582
+6365,X7,2008,3.1,259,diesel,automatic,AWD,300000,8.4,182.0,5,5,suv,white,2.0,no,partial,Netherlands,3274
+8527,3 Series,2006,3.4,260,petrol,manual,RWD,300000,9.3,199.0,4,5,sedan,black,4.0,no,,Turkey,1620
+2135,X3,2016,3.0,260,petrol,automatic,RWD,89125,8.2,182.0,5,5,suv,grey,2.0,no,partial,Spain,3135
+446,5 Series,2011,,261,petrol,automatic,AWD,176168,9.5,203.0,4,5,sedan,black,2.0,no,partial,Netherlands,2689
+1468,1 Series,2013,,139,diesel,automatic,FWD,86550,5.9,128.0,5,4,hatchback,silver,5.0,yes,full,UK,2707
+6164,5 Series,2017,2.4,277,diesel,automatic,RWD,112374,7.6,154.0,4,5,sedan,silver,1.0,no,full,USA,297
+2058,X3,2016,2.3,277,diesel,automatic,RWD,106387,7.4,163.0,5,5,suv,silver,1.0,no,none,Netherlands,2339
+2485,5 Series,2006,2.7,239,hybrid,automatic,RWD,206088,5.3,102.0,4,5,sedan,black,5.0,yes,full,Italy,653
+9214,5 Series,2005,2.9,263,diesel,automatic,RWD,300000,7.4,162.0,4,5,sedan,silver,4.0,no,full,UK,3774
+1104,5 Series,2023,4.1,376,diesel,automatic,AWD,34730,9.3,210.0,4,5,sedan,silver,0.0,no,full,Turkey,1255
+8041,5 Series,2009,2.2,213,petrol,automatic,RWD,149924,7.3,169.0,4,5,sedan,blue,4.0,no,none,France,4520
+959,X7,2024,4.3,398,petrol,automatic,AWD,1293,11.3,236.0,5,5,suv,black,0.0,no,partial,Turkey,230
+427,X1,2010,1.7,202,petrol,automatic,FWD,198240,7.8,155.0,5,5,suv,black,3.0,yes,full,Spain,3276
+6033,X5,2016,3.5,330,petrol,automatic,AWD,107014,10.3,229.0,5,5,suv,red,1.0,no,full,Turkey,3230
+4901,X1,2011,1.8,190,hybrid,automatic,FWD,84025,4.8,104.0,5,5,suv,red,2.0,no,full,Spain,691
+8929,X5,2014,3.1,348,hybrid,automatic,AWD,168631,6.1,119.0,5,5,suv,black,2.0,no,full,Germany,2754
+7673,X3,2018,2.3,282,hybrid,automatic,AWD,133473,5.2,112.0,5,5,suv,silver,1.0,no,full,Netherlands,4863
+7489,X1,2015,2.2,202,diesel,automatic,FWD,191486,6.9,155.0,5,5,suv,black,2.0,yes,full,Netherlands,969
+3106,1 Series,2018,2.1,175,diesel,automatic,FWD,52174,7.0,155.0,3,4,hatchback,white,3.0,no,full,Netherlands,633
+5283,3 Series,2011,2.5,231,diesel,automatic,AWD,145284,7.2,151.0,4,5,sedan,black,3.0,yes,full,USA,4092
+4818,3 Series,2024,1.7,173,petrol,automatic,RWD,0,8.1,179.0,4,5,sedan,silver,0.0,no,partial,Germany,4077
+5562,X7,2020,3.4,293,hybrid,automatic,AWD,75497,6.4,150.0,5,5,suv,red,1.0,no,full,Turkey,1321
+3081,5 Series,2015,3.8,293,diesel,automatic,RWD,116758,9.0,200.0,4,5,sedan,black,3.0,no,partial,France,1831
+181,X5,2023,3.4,275,petrol,automatic,AWD,4420,9.1,203.0,5,5,suv,white,0.0,no,full,USA,2178
+4550,X3,2012,2.1,219,diesel,automatic,AWD,195359,6.8,155.0,5,5,suv,black,2.0,yes,,Netherlands,1417
+4047,Z4,2014,2.7,242,petrol,automatic,RWD,176481,8.5,184.0,2,2,convertible,red,1.0,no,full,Germany,1782
+4241,3 Series,2017,3.2,301,hybrid,automatic,RWD,78084,5.6,130.0,4,5,sedan,blue,3.0,no,,France,4715
+6664,3 Series,2019,3.4,307,hybrid,automatic,RWD,105831,5.9,120.0,4,5,sedan,black,2.0,no,partial,France,4701
+8940,X3,2005,2.5,239,hybrid,automatic,AWD,300000,5.3,103.0,5,5,suv,white,2.0,yes,none,France,4118
+6274,5 Series,2020,2.0,205,petrol,automatic,RWD,35215,8.0,,4,5,sedan,black,1.0,yes,full,Turkey,1652
+612,X3,2010,2.5,239,diesel,automatic,RWD,275729,8.0,157.0,5,5,suv,black,2.0,no,none,France,1483
+4175,X3,2009,3.3,341,hybrid,automatic,RWD,249298,5.9,124.0,5,5,suv,white,3.0,no,full,Netherlands,2275
+7416,5 Series,2019,2.2,235,hybrid,automatic,AWD,52776,4.7,119.0,4,5,sedan,white,2.0,no,,USA,877
+7891,5 Series,2015,2.8,202,diesel,automatic,AWD,196228,7.6,168.0,4,5,sedan,grey,2.0,no,full,Italy,3525
+7825,1 Series,2023,2.5,252,diesel,automatic,FWD,17682,8.0,168.0,5,4,hatchback,silver,1.0,no,partial,UK,2016
+7591,1 Series,2022,2.8,281,diesel,automatic,FWD,37493,7.8,180.0,5,4,hatchback,red,1.0,no,full,UK,426
+3124,5 Series,2021,2.6,194,petrol,automatic,AWD,44010,9.2,,4,5,sedan,silver,1.0,no,full,France,626
+4065,3 Series,2015,2.0,218,diesel,automatic,RWD,58685,7.5,171.0,4,5,sedan,red,1.0,no,none,USA,1589
+4412,X3,2021,2.6,182,diesel,automatic,RWD,47456,6.3,140.0,5,5,suv,silver,1.0,no,full,France,2223
+1323,X3,2022,2.1,203,diesel,automatic,RWD,27596,7.3,148.0,5,5,suv,white,2.0,no,full,Italy,2217
+4819,5 Series,2011,3.6,298,hybrid,automatic,AWD,83869,6.0,126.0,4,5,sedan,blue,3.0,yes,partial,Italy,4483
+8571,X5,2008,3.9,295,petrol,automatic,AWD,70451,10.1,225.0,5,5,suv,blue,4.0,no,partial,Turkey,1485
+7268,3 Series,2023,2.0,166,hybrid,automatic,AWD,21554,4.3,101.0,4,5,sedan,white,0.0,no,full,Turkey,1739
+8689,1 Series,2021,2.1,184,petrol,automatic,FWD,25024,7.9,175.0,3,4,hatchback,silver,1.0,no,full,France,2480
+2827,X5,2015,3.7,357,petrol,automatic,AWD,99740,10.9,258.0,5,5,suv,blue,1.0,no,partial,France,2584
+8302,X3,2008,3.0,273,petrol,automatic,RWD,288374,9.3,208.0,5,5,suv,silver,2.0,yes,full,Italy,2893
+4748,X1,2017,2.3,262,hybrid,automatic,FWD,143920,5.0,96.0,5,5,suv,blue,2.0,no,full,UK,149
+1693,X5,2017,4.1,388,hybrid,automatic,AWD,148553,6.8,151.0,5,5,suv,white,3.0,no,partial,USA,676
+1627,X7,2024,3.4,284,petrol,automatic,AWD,0,9.3,204.0,5,5,suv,silver,0.0,yes,full,USA,1261
+4323,3 Series,2006,3.0,266,hybrid,manual,AWD,283729,5.4,105.0,4,5,sedan,white,4.0,yes,full,Netherlands,4917
+5273,X5,2016,3.1,352,diesel,automatic,AWD,134695,8.3,184.0,5,5,suv,black,4.0,no,partial,Italy,12
+4979,3 Series,2012,3.0,192,hybrid,manual,AWD,141736,4.7,97.0,4,5,sedan,silver,3.0,no,full,Italy,1833
+5698,5 Series,2023,2.4,240,diesel,automatic,RWD,15401,7.2,168.0,4,5,sedan,blue,0.0,no,full,Spain,3248
+6366,X3,2012,2.8,254,hybrid,automatic,RWD,119596,5.4,117.0,5,5,suv,black,5.0,yes,full,Spain,1491
+5611,X1,2019,1.8,156,hybrid,automatic,AWD,91538,4.5,94.0,5,5,suv,black,4.0,no,partial,UK,2727
+464,X3,2024,3.3,253,petrol,automatic,AWD,0,9.9,210.0,5,5,suv,black,0.0,no,full,USA,3686
+7083,X5,2024,4.2,297,petrol,automatic,AWD,611,9.9,219.0,5,5,suv,white,1.0,no,full,Germany,1424
+1621,5 Series,2021,3.1,249,diesel,automatic,AWD,46626,7.8,193.0,4,5,sedan,black,2.0,no,full,Germany,4605
+8157,X1,2015,2.4,202,petrol,automatic,AWD,118731,9.8,213.0,5,5,suv,black,3.0,no,full,UK,4595
+7472,X3,2024,2.5,218,hybrid,automatic,AWD,10013,5.0,105.0,5,5,suv,blue,0.0,no,full,USA,731
+7586,3 Series,2018,3.4,326,diesel,manual,AWD,141816,7.6,172.0,4,5,sedan,blue,2.0,no,full,USA,1231
+1407,3 Series,2010,3.4,282,hybrid,manual,RWD,161819,6.2,112.0,4,5,sedan,blue,3.0,yes,full,Italy,1634
+9155,X1,2016,1.8,136,diesel,automatic,AWD,177010,5.9,142.0,5,5,suv,blue,4.0,no,full,Germany,3936
+8651,X7,2009,3.4,320,hybrid,automatic,AWD,300000,6.2,144.0,5,5,suv,grey,2.0,yes,full,France,1210
+7999,Z4,2017,2.9,236,petrol,automatic,RWD,132541,9.7,222.0,2,2,convertible,silver,2.0,no,full,Italy,3268
+5492,i4,2012,0.0,189,electric,automatic,AWD,155990,0.0,0.0,4,5,coupe,blue,5.0,no,full,France,1934
+4186,5 Series,2005,3.0,281,petrol,automatic,AWD,300000,9.7,211.0,4,5,sedan,red,3.0,yes,partial,Spain,553
+8922,3 Series,2015,2.4,278,petrol,automatic,RWD,153994,7.6,,4,5,sedan,blue,4.0,yes,partial,UK,491
+6523,X7,2020,4.3,371,diesel,automatic,AWD,93900,9.5,,5,5,suv,white,0.0,no,full,France,2962
+2005,3 Series,2022,3.4,347,hybrid,automatic,RWD,20527,5.7,129.0,4,5,sedan,blue,0.0,no,full,Spain,2329
+5595,i3,2023,0.0,192,electric,automatic,RWD,22407,0.0,0.0,5,4,hatchback,black,0.0,no,full,Netherlands,2195
+6716,X5,2007,3.1,252,petrol,,AWD,258652,9.8,215.0,5,5,suv,silver,4.0,yes,full,Netherlands,3064
+8359,7 Series,2011,0.0,338,electric,automatic,RWD,209618,0.0,0.0,4,5,sedan,silver,2.0,no,none,France,657
+1929,3 Series,2023,1.7,176,diesel,automatic,AWD,0,6.1,130.0,4,5,sedan,silver,0.0,yes,full,Netherlands,2374
+9344,X3,2012,3.0,210,hybrid,automatic,RWD,175897,5.6,104.0,5,5,suv,grey,2.0,no,full,Netherlands,2225
+7809,3 Series,2007,2.0,145,diesel,manual,RWD,211123,6.4,134.0,4,5,sedan,black,2.0,yes,none,UK,4264
+5141,5 Series,2014,2.4,228,petrol,automatic,RWD,154321,8.0,179.0,4,5,sedan,blue,4.0,no,partial,Turkey,1170
+511,X7,2019,3.4,258,hybrid,automatic,AWD,83390,6.0,136.0,5,5,suv,black,2.0,no,none,Spain,132
+347,X5,2015,3.2,330,petrol,automatic,AWD,130410,9.4,202.0,5,5,suv,white,1.0,no,full,Turkey,471
+2313,1 Series,2016,2.6,267,petrol,automatic,FWD,70958,8.7,192.0,5,5,hatchback,white,3.0,no,partial,Germany,3225
+409,1 Series,2010,2.4,231,petrol,automatic,FWD,235223,9.0,186.0,5,5,hatchback,black,2.0,yes,partial,UK,1405
+3051,X3,2006,3.2,308,petrol,automatic,AWD,218595,9.4,214.0,5,5,suv,red,3.0,yes,partial,USA,2876
+1162,X7,2017,3.1,238,diesel,automatic,AWD,120874,8.1,180.0,5,5,suv,blue,3.0,no,partial,Italy,4504
+962,i7,2024,0.0,581,electric,automatic,RWD,0,0.0,0.0,4,5,sedan,black,1.0,no,none,Italy,4692
+8330,1 Series,2013,2.7,188,petrol,manual,FWD,107745,8.0,169.0,5,5,hatchback,grey,2.0,no,partial,Spain,2826
+2234,X1,2006,2.2,209,hybrid,automatic,AWD,300000,4.9,110.0,5,5,suv,black,4.0,no,none,Spain,287
+1198,1 Series,2009,1.7,173,hybrid,automatic,RWD,194948,4.8,103.0,3,4,hatchback,silver,3.0,no,partial,Spain,1869
+6430,X1,2019,1.7,209,hybrid,automatic,AWD,111513,4.3,118.0,5,5,suv,grey,2.0,no,full,Germany,3114
+1952,X3,2017,3.2,281,hybrid,automatic,AWD,145173,5.7,129.0,5,5,suv,black,4.0,no,full,France,3625
+6383,X5,2021,3.9,323,petrol,automatic,AWD,40129,10.7,259.0,5,5,suv,red,1.0,yes,full,UK,2312
+6180,X7,2009,3.3,274,hybrid,automatic,AWD,176908,5.5,111.0,5,5,suv,silver,4.0,no,partial,France,4923
+2541,5 Series,2021,3.3,248,diesel,automatic,AWD,49009,7.6,174.0,4,5,sedan,white,1.0,no,full,Spain,1618
+3102,3 Series,2023,3.4,313,hybrid,automatic,RWD,10622,5.5,125.0,4,5,sedan,white,1.0,no,full,UK,994
+4340,X1,2024,1.7,191,petrol,automatic,AWD,12661,6.5,,5,5,suv,white,0.0,no,full,Spain,1803
+373,X3,2016,2.7,252,petrol,automatic,AWD,80139,8.0,167.0,5,5,suv,blue,,no,full,Italy,2642
+311,3 Series,2016,3.5,298,diesel,manual,AWD,128018,8.5,183.0,4,5,sedan,red,1.0,no,partial,Italy,4802
+4442,X1,2017,2.3,194,petrol,automatic,AWD,115563,7.0,147.0,5,5,suv,grey,4.0,no,full,Spain,3535
+9986,5 Series,2022,2.7,234,diesel,automatic,RWD,18173,7.2,137.0,4,5,sedan,white,0.0,no,partial,Spain,4831
+3820,i3,2016,0.0,165,electric,automatic,RWD,143365,0.0,0.0,5,4,hatchback,silver,2.0,no,full,France,3911
+4574,i3,2013,0.0,120,electric,automatic,RWD,82969,0.0,0.0,5,4,hatchback,white,4.0,yes,full,Spain,2107
+6774,i7,2021,0.0,387,electric,automatic,RWD,48702,0.0,0.0,4,5,sedan,black,1.0,no,full,USA,3044
+264,5 Series,2020,2.5,183,petrol,automatic,RWD,64256,,177.0,4,5,sedan,grey,2.0,no,full,Netherlands,416
+5490,7 Series,2023,4.0,340,diesel,automatic,RWD,12825,9.7,213.0,4,5,sedan,blue,0.0,no,full,France,977
+750,3 Series,2013,3.3,322,petrol,manual,AWD,150665,9.7,207.0,4,5,sedan,black,4.0,yes,partial,Turkey,2417
+451,3 Series,2011,2.8,232,petrol,automatic,RWD,75973,9.1,198.0,4,5,sedan,white,5.0,no,partial,Italy,505
+839,X3,2005,2.4,291,hybrid,automatic,AWD,264248,4.7,105.0,5,5,suv,grey,3.0,yes,full,France,4152
+508,i4,2022,0.0,445,electric,automatic,RWD,27860,0.0,0.0,4,5,coupe,white,2.0,,full,UK,4255
+7182,X1,2018,2.4,264,hybrid,automatic,FWD,38722,4.9,99.0,5,5,suv,black,2.0,yes,full,Netherlands,3941
+9910,i7,2019,0.0,418,electric,automatic,RWD,73980,0.0,0.0,4,4,sedan,black,2.0,no,partial,Italy,414
+5268,i4,2013,0.0,266,electric,automatic,RWD,105811,0.0,0.0,4,5,coupe,black,5.0,no,none,France,4148
+5507,i7,2017,0.0,558,electric,automatic,AWD,24824,0.0,0.0,4,5,sedan,black,1.0,yes,full,UK,1183
+6978,X1,2015,2.5,190,diesel,automatic,FWD,147144,7.8,176.0,5,5,suv,blue,2.0,,full,Turkey,485
+316,3 Series,2020,1.9,172,hybrid,automatic,RWD,68637,4.1,97.0,4,5,sedan,black,2.0,no,partial,USA,893
+3551,5 Series,2020,2.5,192,petrol,automatic,AWD,51429,7.5,173.0,4,5,sedan,silver,2.0,yes,full,USA,805
+7073,i7,2023,0.0,660,electric,automatic,RWD,21537,0.0,0.0,4,4,sedan,white,1.0,no,full,Turkey,555
+7898,X3,2018,2.5,210,petrol,automatic,RWD,57715,8.6,187.0,5,5,suv,red,4.0,no,partial,Italy,3825
+1471,i4,2021,0.0,356,electric,automatic,RWD,50646,0.0,0.0,4,5,coupe,black,1.0,no,partial,Spain,1197
+6979,X3,2020,2.5,270,hybrid,automatic,RWD,94991,4.7,117.0,5,5,suv,white,1.0,yes,full,France,4253
+5559,3 Series,2021,2.8,296,hybrid,automatic,RWD,53768,5.6,112.0,4,5,sedan,blue,2.0,no,full,UK,4058
+1403,5 Series,2016,2.2,192,hybrid,automatic,AWD,154786,4.3,99.0,4,5,sedan,silver,3.0,no,full,UK,1293
+4337,1 Series,2014,2.4,277,hybrid,automatic,FWD,185974,5.3,122.0,5,5,hatchback,blue,3.0,,full,Spain,2221
+426,X5,2024,3.9,379,hybrid,automatic,AWD,8075,6.5,134.0,5,5,suv,blue,0.0,no,full,Netherlands,3504
+1341,3 Series,2016,2.1,175,hybrid,automatic,AWD,107898,5.1,97.0,4,5,sedan,black,3.0,no,partial,USA,3654
+5255,3 Series,2011,3.1,287,hybrid,manual,AWD,221470,6.2,133.0,4,5,sedan,blue,2.0,yes,full,UK,4758
+3549,X3,2018,2.5,238,petrol,automatic,AWD,103913,8.9,187.0,5,5,suv,grey,1.0,no,partial,USA,3006
+2120,X5,2019,4.2,356,petrol,automatic,AWD,46458,10.6,218.0,5,5,suv,silver,1.0,no,partial,Italy,2093
+1601,1 Series,2005,,244,hybrid,automatic,FWD,300000,5.0,114.0,5,4,hatchback,silver,2.0,no,partial,Spain,2187
+1026,X5,2010,3.7,284,hybrid,automatic,AWD,235110,6.4,127.0,5,5,suv,white,3.0,no,partial,Netherlands,3036
+6687,X3,2023,2.3,190,hybrid,automatic,AWD,0,4.9,96.0,5,5,suv,white,0.0,no,full,Italy,3918
+3556,3 Series,2023,3.2,289,hybrid,automatic,RWD,5159,5.3,115.0,4,5,sedan,silver,0.0,no,full,Spain,1272
+5663,i4,2024,0.0,341,electric,automatic,RWD,0,0.0,0.0,4,5,coupe,grey,0.0,no,partial,Turkey,290
+2938,5 Series,2019,3.6,388,diesel,automatic,AWD,139835,9.0,197.0,4,5,sedan,red,2.0,no,full,UK,4827
+9421,5 Series,2015,3.6,319,petrol,automatic,RWD,177776,10.3,234.0,4,5,sedan,grey,2.0,no,full,Germany,252
+7370,7 Series,2013,3.5,298,hybrid,automatic,AWD,140035,6.0,140.0,4,4,sedan,red,3.0,no,full,Germany,3245
+7729,1 Series,2005,2.2,232,petrol,manual,FWD,219404,8.4,193.0,5,5,hatchback,white,2.0,yes,full,USA,350
+2749,X1,2017,1.8,220,petrol,automatic,FWD,52970,8.0,189.0,5,5,suv,grey,1.0,no,full,France,1187
+8475,5 Series,2016,2.4,210,hybrid,automatic,AWD,104598,5.5,120.0,4,5,sedan,black,3.0,no,none,Italy,1961
+4191,5 Series,2020,2.2,247,hybrid,automatic,AWD,90633,4.8,113.0,4,5,sedan,black,1.0,no,partial,Spain,422
+7439,1 Series,2009,2.0,208,diesel,manual,FWD,277317,6.5,158.0,3,5,hatchback,black,2.0,yes,full,Netherlands,90
+8158,5 Series,2021,4.3,424,hybrid,automatic,AWD,42339,6.4,147.0,4,5,sedan,silver,1.0,no,full,UK,3729
+46,X5,2014,4.2,401,diesel,automatic,AWD,152975,9.1,204.0,5,5,suv,white,4.0,yes,full,Italy,2236
+8675,X3,2022,2.4,264,hybrid,automatic,AWD,41592,5.5,118.0,5,5,suv,silver,1.0,,partial,Spain,670
+2355,i7,2009,0.0,312,electric,automatic,AWD,248184,0.0,0.0,4,4,sedan,white,5.0,yes,none,Turkey,3040
+1964,X1,2019,1.8,177,petrol,automatic,FWD,107154,7.7,166.0,5,5,suv,blue,1.0,no,partial,Turkey,26
+9415,X5,2012,3.2,300,diesel,automatic,AWD,104444,8.4,170.0,5,5,suv,black,3.0,no,partial,France,429
+6517,1 Series,2021,2.1,230,diesel,automatic,RWD,57817,6.6,142.0,5,4,hatchback,white,2.0,no,full,France,683
+554,X7,2009,4.3,368,diesel,automatic,AWD,136034,8.9,187.0,5,5,suv,blue,3.0,yes,full,Italy,4463
+8247,X1,2012,1.7,184,hybrid,automatic,FWD,206336,4.3,97.0,5,5,suv,black,2.0,yes,partial,Spain,3945
+8442,X5,2016,3.2,277,hybrid,automatic,AWD,106017,5.9,139.0,5,5,suv,blue,1.0,no,partial,Germany,3523
+2406,X3,2010,2.3,243,diesel,automatic,AWD,273634,6.9,151.0,5,5,suv,grey,3.0,no,partial,Germany,1541
+7835,X3,2022,2.9,274,diesel,automatic,AWD,19596,7.1,158.0,5,5,suv,blue,1.0,no,full,France,2031
+8780,3 Series,2022,3.1,342,hybrid,automatic,RWD,27884,,120.0,4,5,sedan,black,1.0,no,full,Italy,2232
+1080,X3,2019,3.5,352,petrol,automatic,RWD,63914,9.9,214.0,5,5,suv,silver,1.0,no,full,USA,4120
+9154,X3,2011,2.4,237,hybrid,automatic,RWD,182277,5.5,136.0,5,5,suv,grey,5.0,no,partial,UK,3235
+4443,X7,2006,3.8,276,hybrid,automatic,AWD,300000,5.8,156.0,5,5,suv,white,3.0,yes,full,France,254
+5494,i3,2023,,153,electric,automatic,RWD,20204,0.0,0.0,5,4,hatchback,black,0.0,no,full,France,1029
+6878,X3,2019,2.2,255,diesel,automatic,AWD,110903,6.7,147.0,5,5,suv,grey,1.0,yes,full,Italy,4392
+8857,5 Series,2023,3.1,236,hybrid,automatic,RWD,7656,5.8,122.0,4,5,sedan,blue,0.0,no,partial,UK,3800
+8509,i4,2024,0.0,392,electric,automatic,AWD,0,0.0,0.0,4,5,coupe,blue,0.0,no,full,Turkey,4310
+119,X3,2011,2.4,260,diesel,automatic,AWD,256609,6.8,137.0,5,5,suv,,3.0,yes,none,France,2509
+605,3 Series,2021,3.2,289,petrol,automatic,RWD,42644,9.6,218.0,4,5,sedan,white,0.0,no,none,USA,2292
+6482,7 Series,2013,3.7,343,diesel,automatic,RWD,200601,8.8,199.0,4,4,sedan,white,2.0,no,full,Italy,1323
+4607,X3,2023,2.5,236,petrol,automatic,RWD,0,7.7,178.0,5,5,suv,,0.0,no,partial,Germany,1550
+979,Z4,2021,2.5,273,petrol,automatic,RWD,24709,8.9,195.0,2,2,convertible,black,1.0,yes,full,Turkey,4647
+6871,X7,2020,3.5,296,petrol,automatic,AWD,45947,9.5,210.0,5,5,suv,blue,1.0,no,partial,Germany,315
+9787,Z4,2020,2.2,229,petrol,automatic,RWD,54146,8.8,196.0,2,2,convertible,black,0.0,no,full,USA,1242
+4413,i7,2020,0.0,457,electric,automatic,AWD,68075,0.0,0.0,4,4,sedan,blue,0.0,yes,full,UK,2450
+8479,X3,2023,2.6,172,hybrid,automatic,RWD,4428,4.9,110.0,5,5,suv,grey,1.0,no,full,France,1578
+4126,5 Series,2012,3.5,261,petrol,automatic,AWD,156967,9.5,197.0,4,5,sedan,silver,3.0,no,none,Spain,4625
+4993,3 Series,2013,2.1,193,hybrid,automatic,RWD,118514,4.8,107.0,4,5,sedan,black,4.0,yes,none,Germany,3116
+2877,X3,2010,3.4,279,petrol,automatic,AWD,59445,9.4,207.0,5,5,suv,white,2.0,yes,full,Netherlands,69
+6998,X3,2020,3.3,270,hybrid,automatic,RWD,53966,6.0,137.0,5,5,suv,black,,no,partial,Spain,859
+9583,X7,2011,3.7,324,diesel,automatic,AWD,163158,8.9,193.0,5,5,suv,black,5.0,yes,partial,USA,2753
+3746,3 Series,2019,2.5,256,petrol,manual,RWD,15145,8.3,187.0,4,5,sedan,black,,no,full,France,1632
+731,X1,2013,1.8,183,hybrid,automatic,FWD,180686,4.2,94.0,5,5,suv,silver,5.0,yes,full,Turkey,1650
+7537,i4,2006,0.0,299,electric,automatic,AWD,300000,0.0,0.0,4,5,coupe,white,4.0,yes,partial,France,3860
+4185,X1,2014,1.6,142,petrol,automatic,AWD,115177,7.6,192.0,5,5,suv,grey,3.0,no,none,Italy,3106
+3781,X3,2010,3.2,254,petrol,automatic,RWD,158227,8.3,175.0,5,5,suv,black,4.0,no,none,Netherlands,1074
+3160,X1,2023,2.1,199,petrol,automatic,AWD,22584,7.8,172.0,5,5,suv,white,0.0,no,full,France,4001
+6851,X7,2012,4.0,333,diesel,automatic,AWD,210327,8.8,191.0,5,5,suv,grey,4.0,yes,partial,Netherlands,787
+1861,7 Series,2020,4.7,351,diesel,automatic,AWD,81765,10.5,232.0,4,4,sedan,black,2.0,no,full,UK,2605
+9617,X5,2008,3.3,294,petrol,automatic,AWD,188173,10.2,218.0,5,5,suv,black,2.0,yes,full,France,3630
+5866,i7,2021,0.0,417,electric,automatic,AWD,39411,0.0,0.0,4,4,sedan,silver,1.0,no,full,Netherlands,2121
+1430,1 Series,2014,2.2,154,diesel,manual,RWD,157361,6.3,144.0,5,5,hatchback,grey,1.0,yes,full,UK,1874
+1685,X1,2018,2.1,161,diesel,automatic,FWD,85914,7.3,149.0,5,5,suv,white,,yes,partial,Italy,811
+3838,i7,2023,0.0,546,electric,automatic,RWD,12541,0.0,0.0,4,5,sedan,blue,0.0,no,full,France,387
+5580,X5,2009,3.9,347,petrol,automatic,AWD,105122,10.5,219.0,5,5,suv,white,4.0,no,full,Italy,2882
+4798,3 Series,2009,2.1,248,petrol,automatic,RWD,300000,7.4,172.0,4,5,sedan,silver,3.0,no,full,Spain,1175
+8062,5 Series,2017,3.1,194,diesel,automatic,RWD,107179,7.9,176.0,4,5,sedan,black,2.0,no,full,USA,3197
+3236,X7,2014,3.3,227,hybrid,automatic,AWD,177213,5.5,118.0,5,5,suv,white,1.0,no,partial,Germany,2623
+9204,X1,2012,1.6,165,diesel,automatic,FWD,130384,5.3,123.0,5,5,suv,red,2.0,yes,full,France,1351
+7205,3 Series,2007,2.5,261,diesel,manual,RWD,296786,7.0,151.0,4,5,sedan,silver,2.0,yes,full,Italy,410
+172,5 Series,2021,3.4,317,diesel,automatic,RWD,48748,9.3,193.0,4,5,sedan,white,1.0,yes,full,France,4212
+2341,X7,2010,4.2,360,petrol,automatic,AWD,169533,11.0,251.0,5,5,suv,white,4.0,yes,full,Netherlands,109
+5744,1 Series,2023,2.6,259,hybrid,automatic,FWD,34911,4.5,103.0,3,5,hatchback,white,0.0,no,full,Spain,4995
+9435,5 Series,2020,2.8,275,hybrid,automatic,RWD,52417,5.5,121.0,4,5,sedan,white,0.0,no,partial,France,3429
+8701,3 Series,2023,2.2,262,diesel,automatic,AWD,30180,6.7,154.0,4,5,sedan,white,1.0,no,partial,USA,2809
+4383,5 Series,2023,3.7,331,petrol,automatic,AWD,21073,10.3,231.0,4,5,sedan,silver,0.0,no,full,USA,2594
+2572,3 Series,2024,3.5,277,hybrid,automatic,RWD,0,6.4,143.0,4,5,sedan,,0.0,no,full,Turkey,2836
+2808,X1,2023,2.4,246,petrol,automatic,AWD,0,8.9,202.0,5,5,suv,white,1.0,yes,full,Germany,2372
+354,X3,2022,2.8,264,hybrid,automatic,RWD,20758,5.7,135.0,5,5,suv,grey,2.0,no,full,USA,1235
+541,5 Series,2013,4.2,355,hybrid,automatic,RWD,156743,6.7,136.0,4,5,sedan,white,2.0,no,full,France,2146
+2806,X5,2012,3.1,304,diesel,automatic,AWD,189442,7.8,169.0,5,5,suv,black,3.0,yes,partial,USA,4975
+544,3 Series,2020,2.4,184,diesel,manual,RWD,46776,8.3,177.0,4,5,sedan,blue,0.0,no,partial,Italy,599
+8267,Z4,2013,2.2,196,petrol,automatic,RWD,174295,7.7,171.0,2,2,convertible,white,3.0,no,partial,Italy,1434
+6227,X1,2017,2.2,210,petrol,automatic,AWD,84105,7.4,170.0,5,5,suv,black,3.0,no,partial,Turkey,4996
+648,X1,2024,2.3,226,petrol,automatic,AWD,0,9.5,217.0,5,5,suv,silver,0.0,no,full,UK,538
+6968,3 Series,2006,,190,diesel,automatic,AWD,258623,6.2,154.0,4,5,sedan,black,3.0,no,partial,Turkey,721
+3214,1 Series,2017,1.8,136,petrol,automatic,FWD,95228,7.4,157.0,3,4,hatchback,black,3.0,yes,full,Spain,4410
+2936,X3,2012,3.1,241,diesel,automatic,AWD,140704,8.3,174.0,5,5,suv,black,2.0,no,full,USA,1872
+2719,X7,2024,4.4,341,diesel,automatic,AWD,0,9.5,200.0,5,5,suv,silver,0.0,yes,full,Netherlands,2845
+4274,3 Series,2011,3.2,314,hybrid,automatic,AWD,210858,6.6,158.0,4,5,sedan,silver,3.0,yes,partial,Germany,2053
+8283,i7,2019,0.0,644,electric,automatic,AWD,85929,0.0,0.0,4,4,sedan,white,4.0,no,full,Spain,2907
+7368,X7,2013,3.7,275,petrol,automatic,AWD,155990,10.3,227.0,5,5,suv,grey,2.0,no,partial,Germany,2254
+1872,3 Series,2016,2.8,216,petrol,automatic,AWD,91511,9.7,209.0,4,5,sedan,black,2.0,,full,Spain,3912
+8966,i4,2017,0.0,281,electric,automatic,AWD,96164,0.0,0.0,4,5,coupe,black,3.0,no,full,France,177
+5995,Z4,2023,2.7,282,petrol,automatic,RWD,8950,9.3,196.0,2,2,convertible,black,0.0,no,full,Turkey,2890
+2213,7 Series,2012,4.7,423,petrol,automatic,RWD,300000,11.7,268.0,4,4,sedan,white,2.0,yes,none,France,3673
+9055,X1,2024,2.0,156,diesel,automatic,AWD,0,6.3,135.0,5,5,suv,white,0.0,no,full,Germany,80
+4536,X3,2017,2.1,251,hybrid,automatic,RWD,89013,5.7,127.0,5,5,suv,white,4.0,no,full,Germany,2561
+6211,5 Series,2009,3.2,312,hybrid,automatic,AWD,207285,5.7,116.0,4,5,sedan,blue,3.0,no,none,France,1723
+7600,5 Series,2016,3.7,311,diesel,automatic,RWD,145102,9.0,208.0,4,5,sedan,blue,3.0,no,full,Netherlands,1617
+3510,1 Series,2021,2.6,235,petrol,automatic,FWD,103104,9.9,232.0,5,4,hatchback,black,1.0,no,full,Italy,1654
+2303,5 Series,2020,2.5,272,petrol,automatic,AWD,20862,9.2,200.0,4,5,sedan,white,1.0,no,partial,Italy,2328
+6051,X7,2024,4.1,369,diesel,automatic,AWD,0,10.1,232.0,5,5,suv,blue,1.0,no,full,Germany,4613
+6262,Z4,2023,2.2,247,petrol,automatic,RWD,28067,8.5,185.0,2,2,convertible,silver,1.0,no,,Netherlands,221
+1057,i3,2012,0.0,172,electric,automatic,RWD,205796,0.0,0.0,5,4,hatchback,,4.0,no,none,Spain,93
+4251,i4,2008,0.0,330,electric,automatic,AWD,161206,0.0,0.0,4,5,coupe,white,5.0,yes,full,USA,2609
+9507,i3,2015,0.0,144,electric,automatic,RWD,83092,0.0,0.0,5,4,hatchback,blue,2.0,no,partial,USA,3382
+9959,Z4,2021,2.9,253,petrol,automatic,RWD,67946,8.5,200.0,2,2,convertible,black,1.0,no,partial,Spain,4415
+4834,X3,2023,2.6,198,petrol,automatic,RWD,11621,7.9,199.0,5,5,suv,white,0.0,no,partial,UK,1397
+1002,X1,2023,1.7,202,petrol,automatic,FWD,2399,7.6,171.0,5,5,suv,blue,0.0,no,full,Italy,4686
+3471,i3,2018,0.0,222,electric,automatic,RWD,51694,0.0,0.0,5,4,hatchback,silver,2.0,no,full,France,1292
+8427,7 Series,2021,0.0,446,electric,automatic,AWD,39419,0.0,0.0,4,4,sedan,,0.0,no,full,Italy,2164
+309,X7,2022,4.0,272,petrol,automatic,AWD,40616,9.7,208.0,5,5,suv,white,0.0,no,full,Turkey,2939
+4112,X3,2018,3.1,316,diesel,automatic,AWD,103927,8.6,193.0,5,5,suv,silver,2.0,no,full,France,3668
+2311,X5,2016,3.3,291,hybrid,automatic,AWD,129880,5.3,112.0,5,5,suv,silver,4.0,no,full,USA,812
+5191,5 Series,2011,3.9,287,petrol,automatic,RWD,185708,10.7,236.0,4,5,sedan,red,3.0,no,none,France,1258
+4639,i3,2024,0.0,144,electric,automatic,RWD,0,0.0,0.0,5,4,hatchback,grey,1.0,no,full,UK,889
+3890,X3,2017,3.3,302,hybrid,automatic,AWD,63134,6.5,149.0,5,5,suv,black,1.0,no,partial,Netherlands,1451
+5822,X3,2024,2.9,281,diesel,automatic,RWD,22641,7.8,171.0,5,5,suv,black,1.0,no,partial,USA,3316
+1062,X1,2023,1.6,127,hybrid,automatic,FWD,4336,,77.0,5,5,suv,silver,0.0,no,partial,Spain,2559
+7173,1 Series,2022,2.5,296,hybrid,automatic,FWD,14067,5.1,100.0,3,4,hatchback,white,0.0,no,partial,UK,3574
+9577,5 Series,2017,2.2,184,hybrid,automatic,RWD,106834,4.7,106.0,4,5,sedan,white,1.0,no,full,Germany,2680
+5936,X7,2011,4.2,388,hybrid,automatic,AWD,179479,6.2,145.0,5,5,suv,grey,3.0,no,partial,Turkey,4651
+8355,i4,2020,0.0,444,electric,automatic,AWD,36786,0.0,0.0,4,5,coupe,white,1.0,no,full,France,4811
+9726,i4,2018,0.0,379,electric,automatic,RWD,113300,0.0,0.0,4,5,coupe,red,3.0,no,full,Spain,4679
+9471,X5,2017,3.4,319,diesel,automatic,AWD,118632,8.8,201.0,5,5,suv,blue,1.0,no,none,UK,2964
+694,X3,2012,3.5,311,hybrid,automatic,RWD,300000,6.0,120.0,5,5,suv,silver,3.0,no,partial,Spain,2672
+7145,Z4,2021,2.3,218,petrol,automatic,RWD,79253,7.9,159.0,2,2,convertible,white,1.0,no,partial,Italy,561
+1194,X5,2021,4.1,395,hybrid,automatic,AWD,61489,7.1,146.0,5,5,suv,blue,1.0,no,partial,Netherlands,2778
+7119,X7,2021,3.8,321,hybrid,automatic,AWD,66485,6.7,144.0,5,5,suv,red,0.0,no,full,France,2948
+3699,3 Series,2016,2.8,287,hybrid,manual,RWD,200269,5.7,125.0,4,5,sedan,white,2.0,no,full,USA,2817
+2997,5 Series,2022,3.2,301,hybrid,automatic,AWD,4489,5.7,,4,5,sedan,grey,0.0,no,partial,Spain,2758
+454,i4,2008,0.0,270,electric,automatic,AWD,292127,0.0,0.0,4,5,coupe,black,3.0,yes,none,Turkey,1756
+9834,3 Series,2015,2.2,268,petrol,manual,AWD,140783,8.2,183.0,4,5,sedan,grey,4.0,no,partial,Italy,724
+2738,X3,2016,2.6,227,hybrid,automatic,RWD,136358,5.0,128.0,5,5,suv,white,3.0,no,partial,Netherlands,219
+5337,Z4,2020,2.6,223,petrol,automatic,RWD,88195,8.2,179.0,2,2,convertible,white,0.0,no,full,Germany,4139
+902,Z4,2024,2.8,256,petrol,automatic,RWD,0,9.0,207.0,2,2,convertible,grey,0.0,no,full,UK,3957
+6333,3 Series,2021,2.0,145,diesel,automatic,AWD,43931,6.1,136.0,4,5,sedan,blue,0.0,,full,Germany,1588
+5740,X1,2021,1.6,158,petrol,automatic,FWD,55455,6.5,138.0,5,5,suv,blue,1.0,no,partial,Italy,3347
+4408,Z4,2014,2.6,294,petrol,automatic,RWD,171005,,195.0,2,2,convertible,silver,2.0,yes,partial,Italy,3970
+1957,5 Series,2018,2.7,243,petrol,automatic,RWD,105340,8.7,176.0,4,5,sedan,white,1.0,yes,partial,Germany,4707
+1514,5 Series,2014,2.8,294,hybrid,automatic,RWD,175758,5.6,137.0,4,5,sedan,grey,3.0,no,full,USA,43
+2604,3 Series,2010,2.9,294,hybrid,automatic,RWD,241259,5.6,125.0,4,5,sedan,white,2.0,yes,partial,France,3001
+3232,5 Series,2012,4.2,420,petrol,automatic,RWD,175088,10.8,239.0,4,5,sedan,blue,3.0,no,partial,USA,210
+4735,5 Series,2014,3.2,306,petrol,automatic,AWD,37051,10.3,220.0,4,5,sedan,silver,2.0,no,partial,Italy,677
+8732,X7,2015,3.1,258,diesel,automatic,AWD,128606,8.2,200.0,5,5,suv,grey,1.0,no,partial,Germany,354
+6991,3 Series,2011,1.8,181,petrol,automatic,RWD,154516,8.5,174.0,4,5,sedan,,,no,full,Italy,1433
+4503,i3,2010,0.0,214,electric,automatic,RWD,201021,0.0,0.0,5,4,hatchback,silver,3.0,yes,full,UK,949
+5338,5 Series,2005,2.0,157,hybrid,automatic,RWD,262803,4.4,81.0,4,5,sedan,white,4.0,no,partial,Netherlands,2843
+9215,X5,2006,3.2,299,petrol,automatic,AWD,269712,9.7,228.0,5,5,suv,grey,2.0,yes,partial,Italy,577
+345,1 Series,2023,1.8,195,petrol,automatic,FWD,16282,6.0,143.0,3,5,hatchback,blue,0.0,no,full,UK,3928
+7883,7 Series,2024,3.4,286,hybrid,automatic,AWD,16257,5.8,132.0,4,4,sedan,red,0.0,no,full,Spain,544
+9101,X3,2011,3.4,238,hybrid,automatic,AWD,110201,5.9,125.0,5,5,suv,black,2.0,no,,Italy,367
+2575,5 Series,2009,2.3,177,diesel,automatic,AWD,198605,6.5,141.0,4,5,sedan,white,2.0,yes,full,Spain,1612
+8047,X1,2007,1.7,168,diesel,automatic,FWD,156397,6.0,126.0,5,5,suv,white,4.0,no,full,Germany,3550
+3674,X3,2022,2.7,210,hybrid,automatic,RWD,51457,5.0,88.0,5,5,suv,grey,1.0,no,full,UK,3716
+6841,5 Series,2013,3.5,320,diesel,automatic,RWD,164231,7.6,170.0,4,5,sedan,silver,2.0,no,partial,Germany,3779
+9418,X5,2014,3.1,236,hybrid,automatic,AWD,161513,5.8,144.0,5,5,suv,red,2.0,yes,partial,Germany,135
+4487,7 Series,2013,3.7,329,petrol,automatic,RWD,88473,9.9,201.0,4,5,sedan,white,5.0,no,none,Spain,4480
+6326,3 Series,2020,1.8,136,petrol,automatic,AWD,24647,8.2,177.0,4,5,sedan,black,0.0,yes,partial,Germany,1437
+3466,3 Series,2020,3.3,280,petrol,automatic,RWD,52112,9.5,204.0,4,5,sedan,black,0.0,no,partial,UK,47
+4395,X3,2007,2.7,281,petrol,automatic,AWD,60382,9.4,212.0,5,5,suv,red,4.0,yes,partial,Italy,1360
+4892,3 Series,2011,3.5,346,petrol,manual,AWD,208195,10.5,229.0,4,5,sedan,red,4.0,no,partial,Turkey,734
+4255,X5,2023,3.1,264,petrol,automatic,AWD,26681,8.2,186.0,5,5,suv,silver,0.0,no,full,Germany,1534
+6670,i7,2023,0.0,435,electric,automatic,RWD,17899,0.0,0.0,4,4,sedan,white,0.0,no,full,Germany,2004
+7973,X5,2008,3.2,344,petrol,automatic,AWD,300000,9.9,209.0,5,5,suv,black,4.0,no,partial,Netherlands,3795
+6712,X3,2010,3.0,299,petrol,automatic,RWD,118429,9.5,210.0,5,5,suv,white,4.0,no,none,France,2519
+2134,i3,2011,0.0,184,electric,automatic,RWD,79738,0.0,0.0,5,4,hatchback,red,5.0,yes,full,UK,1972
+6686,i7,2019,0.0,505,electric,automatic,RWD,60823,0.0,0.0,4,5,sedan,grey,4.0,no,partial,France,996
+7967,5 Series,2019,3.1,301,hybrid,automatic,RWD,30730,6.3,131.0,4,5,sedan,white,3.0,no,full,USA,61
+7282,7 Series,2017,3.8,338,hybrid,automatic,AWD,89221,6.9,154.0,4,4,sedan,,3.0,yes,partial,Italy,1108
+5340,i3,2024,0.0,187,electric,automatic,RWD,0,0.0,0.0,5,4,hatchback,grey,1.0,no,full,Germany,2405
+3788,X5,2008,3.2,337,petrol,automatic,AWD,240818,10.9,235.0,5,5,suv,black,3.0,no,full,Germany,95
+4930,X5,2024,4.0,299,petrol,automatic,AWD,4877,10.2,210.0,5,5,suv,white,0.0,no,full,Germany,478
+171,3 Series,2021,1.8,172,petrol,automatic,AWD,62373,7.3,159.0,4,5,sedan,blue,1.0,no,full,Germany,4359
+1542,X3,2014,2.7,216,diesel,automatic,AWD,63480,6.6,154.0,5,5,suv,,,yes,full,Italy,4112
+4122,X5,2022,3.3,261,diesel,automatic,AWD,47540,7.9,161.0,5,5,suv,silver,1.0,no,partial,Netherlands,3707
+3860,X1,2020,1.5,154,petrol,automatic,FWD,65081,6.5,141.0,5,5,suv,white,1.0,no,full,Germany,1101
+3579,7 Series,2008,4.8,363,diesel,automatic,RWD,164501,10.6,234.0,4,5,sedan,white,2.0,yes,full,USA,2746
+5412,X1,2017,2.1,241,hybrid,automatic,AWD,127457,4.4,101.0,5,5,suv,red,3.0,yes,full,Turkey,2170
+5941,X7,2014,4.1,370,hybrid,automatic,AWD,180323,6.7,144.0,5,5,suv,red,1.0,no,partial,Turkey,322
+1437,X5,2024,4.3,354,petrol,automatic,AWD,0,11.2,252.0,5,5,suv,black,0.0,no,full,Netherlands,4254
+7192,X3,2022,,172,petrol,automatic,AWD,39414,7.8,164.0,5,5,suv,blue,1.0,no,full,USA,3142
+8958,X3,2013,3.4,311,diesel,automatic,AWD,163311,8.4,180.0,5,5,suv,white,4.0,no,none,Turkey,3537
+8122,X7,2017,4.2,327,diesel,automatic,AWD,102753,10.6,252.0,5,5,suv,black,2.0,no,full,Italy,4925
+8399,5 Series,2016,3.5,294,petrol,automatic,AWD,189531,10.5,229.0,4,5,sedan,white,1.0,no,partial,UK,2924
+7143,X1,2015,1.9,145,petrol,automatic,FWD,99403,7.3,,5,5,suv,white,2.0,no,full,Italy,1149
+3662,5 Series,2009,2.9,286,hybrid,automatic,AWD,300000,5.8,131.0,4,5,sedan,blue,5.0,no,full,France,3617
+7170,3 Series,2020,1.8,165,diesel,automatic,AWD,78876,6.5,154.0,4,5,sedan,silver,2.0,no,full,Italy,291
+8237,i7,2018,0.0,424,electric,automatic,RWD,67690,0.0,0.0,4,5,sedan,white,1.0,no,,USA,3749
+8611,5 Series,2018,3.2,242,diesel,automatic,RWD,99784,7.3,161.0,4,5,sedan,white,1.0,no,partial,Netherlands,3586
+9920,3 Series,2007,2.1,149,diesel,automatic,RWD,281013,7.1,138.0,4,5,sedan,red,4.0,yes,partial,Netherlands,533
+8778,X7,2020,3.7,319,hybrid,automatic,AWD,70180,6.8,153.0,5,5,suv,white,1.0,no,full,Germany,3607
+7522,X3,2024,2.8,236,diesel,automatic,RWD,0,7.5,160.0,5,5,suv,black,0.0,no,partial,Netherlands,2648
+1009,5 Series,2019,3.3,305,hybrid,automatic,RWD,88931,6.5,149.0,4,5,sedan,black,2.0,no,full,France,4810
+2153,5 Series,2021,2.6,223,diesel,automatic,AWD,53350,7.1,157.0,4,5,sedan,white,0.0,no,full,Italy,1983
+8000,7 Series,2021,0.0,478,electric,automatic,AWD,69497,0.0,0.0,4,5,sedan,white,0.0,no,full,UK,2932
+1528,X7,2016,3.1,294,petrol,automatic,AWD,191021,9.2,195.0,5,5,suv,grey,3.0,no,none,France,1536
+5419,X1,2024,1.6,215,diesel,automatic,AWD,0,6.1,138.0,5,5,suv,black,1.0,no,partial,Spain,4534
+35,X7,2023,3.2,354,diesel,automatic,AWD,0,8.4,199.0,5,5,suv,grey,0.0,no,full,Spain,4172
+4953,1 Series,2006,2.8,253,hybrid,automatic,RWD,195244,5.4,113.0,5,4,hatchback,black,4.0,yes,partial,Italy,3360
+2272,X5,2021,4.1,252,diesel,automatic,AWD,55158,9.2,213.0,5,5,suv,black,1.0,no,full,Netherlands,3665
+1883,X1,2019,2.0,168,petrol,automatic,AWD,106843,7.2,161.0,5,5,suv,blue,1.0,no,full,USA,4005
+6315,X3,2012,3.3,269,hybrid,automatic,RWD,195921,5.5,117.0,5,5,suv,silver,4.0,no,full,UK,3626
+5506,X3,2006,,154,petrol,automatic,RWD,188274,8.2,190.0,5,5,suv,black,3.0,yes,partial,Netherlands,586
+4703,X3,2019,2.0,172,diesel,automatic,RWD,52482,7.3,169.0,5,5,suv,blue,1.0,no,partial,Netherlands,3256
+9227,X1,2024,2.4,224,petrol,automatic,FWD,0,7.6,154.0,5,5,suv,grey,0.0,no,full,UK,2298
+649,1 Series,2021,2.8,267,hybrid,automatic,RWD,35542,5.7,138.0,3,4,hatchback,black,0.0,no,full,UK,3988
+1356,7 Series,2023,4.7,404,hybrid,automatic,AWD,0,7.4,158.0,4,5,sedan,blue,0.0,no,full,Germany,584
+7320,3 Series,2019,2.6,228,petrol,automatic,RWD,72032,9.2,197.0,4,5,sedan,silver,2.0,no,partial,Italy,2423
+9437,Z4,2016,2.1,160,petrol,manual,RWD,197670,8.0,172.0,2,2,convertible,white,1.0,no,full,Netherlands,1391
+7348,5 Series,2023,2.6,209,petrol,automatic,RWD,21620,8.3,190.0,4,5,sedan,black,0.0,yes,full,USA,4525
+6773,X1,2023,1.9,150,diesel,automatic,AWD,24304,6.5,154.0,5,5,suv,white,0.0,no,full,Italy,4920
+1261,X5,2006,4.1,318,petrol,,AWD,151284,,234.0,5,5,suv,silver,4.0,yes,full,Italy,4800
+3750,X3,2021,2.5,218,diesel,automatic,AWD,48768,7.1,170.0,5,5,suv,grey,1.0,no,full,UK,3240
+506,5 Series,2010,2.5,229,petrol,automatic,RWD,268815,9.2,199.0,4,5,sedan,blue,3.0,yes,full,Netherlands,4281
+4013,Z4,2014,2.5,229,petrol,automatic,RWD,147416,8.6,,2,2,convertible,silver,3.0,yes,full,Netherlands,3338
+3636,3 Series,2015,2.5,279,hybrid,automatic,RWD,57408,5.3,108.0,4,5,sedan,grey,3.0,no,none,USA,3220
+6226,5 Series,2024,2.7,242,hybrid,automatic,AWD,0,5.7,106.0,4,5,sedan,red,0.0,no,partial,France,2111
+3934,5 Series,2021,2.8,288,diesel,automatic,RWD,37810,8.5,196.0,4,5,sedan,white,1.0,no,full,Germany,1174
+4248,3 Series,2007,2.9,298,diesel,automatic,AWD,173318,8.1,191.0,4,5,sedan,silver,2.0,yes,partial,France,4862
+9012,X3,2023,2.8,251,petrol,automatic,RWD,13774,9.5,198.0,5,5,suv,black,0.0,no,full,Netherlands,3811
+8880,Z4,2011,2.6,184,petrol,automatic,RWD,130640,8.4,168.0,2,2,convertible,silver,3.0,yes,full,Spain,1867
+8193,X3,2014,2.3,181,hybrid,automatic,RWD,87814,4.5,89.0,5,5,suv,white,2.0,no,full,Germany,2614
+3333,i7,2022,0.0,504,electric,automatic,AWD,24130,0.0,0.0,4,4,sedan,black,1.0,no,full,USA,3866
+6858,7 Series,2023,4.5,422,hybrid,automatic,RWD,9157,7.1,166.0,4,4,sedan,grey,1.0,no,full,UK,4885
+5327,X3,2023,2.5,237,hybrid,automatic,RWD,9736,5.1,129.0,5,5,suv,,0.0,no,full,France,3778
+2816,3 Series,2024,2.3,202,diesel,automatic,RWD,13920,6.6,155.0,4,5,sedan,white,1.0,no,full,Netherlands,3846
+2424,7 Series,2015,3.1,290,diesel,automatic,AWD,91456,7.9,159.0,4,4,sedan,black,1.0,no,partial,Spain,2416
+5324,5 Series,2016,3.3,244,diesel,automatic,AWD,68783,7.9,183.0,4,5,sedan,silver,,yes,none,Turkey,70
+6988,i3,2024,0.0,181,electric,automatic,RWD,5245,0.0,0.0,5,4,hatchback,silver,0.0,no,none,UK,4880
+6544,X7,2023,4.0,276,hybrid,automatic,AWD,0,6.1,126.0,5,5,suv,black,1.0,no,partial,Turkey,1126
+4422,3 Series,2006,3.1,241,diesel,automatic,RWD,228018,7.9,180.0,4,5,sedan,blue,5.0,no,full,Netherlands,4024
+3002,X5,2011,3.6,386,diesel,automatic,AWD,210672,8.7,212.0,5,5,suv,black,3.0,no,full,USA,3250
+7451,1 Series,2019,2.1,149,petrol,automatic,RWD,54343,7.3,161.0,5,4,hatchback,grey,1.0,no,none,France,3901
+2686,X1,2023,2.1,225,petrol,automatic,FWD,18201,8.5,198.0,5,5,suv,grey,1.0,no,full,Netherlands,1095
+3940,5 Series,2015,3.5,401,diesel,automatic,AWD,99228,9.3,211.0,4,5,sedan,grey,1.0,no,full,USA,4545
+6757,Z4,2017,2.1,209,petrol,automatic,RWD,159670,8.0,192.0,2,2,convertible,grey,1.0,yes,partial,Italy,1212
+4130,7 Series,2009,3.9,418,diesel,automatic,AWD,213791,9.6,222.0,4,5,sedan,blue,5.0,yes,partial,UK,3921
+2056,X5,2023,3.7,344,diesel,automatic,AWD,0,8.4,191.0,5,5,suv,blue,,no,partial,UK,1425
+2570,X3,2010,2.6,254,petrol,automatic,AWD,192896,8.8,213.0,5,5,suv,blue,3.0,yes,partial,USA,3066
+3372,5 Series,2023,2.0,159,hybrid,automatic,AWD,41855,4.8,100.0,4,5,sedan,blue,0.0,no,partial,Turkey,4519
+6999,1 Series,2016,2.2,253,hybrid,automatic,RWD,105635,5.0,114.0,3,4,hatchback,silver,2.0,no,full,France,2100
+7263,3 Series,2015,2.6,285,hybrid,manual,RWD,129712,5.5,119.0,4,5,sedan,white,1.0,no,full,Italy,807
+2723,i3,2007,0.0,195,electric,automatic,RWD,263151,0.0,0.0,5,4,hatchback,black,2.0,no,full,France,4743
+5734,X1,2006,1.6,155,diesel,automatic,AWD,224763,6.1,134.0,5,5,suv,silver,4.0,no,full,Germany,3750
+8804,1 Series,2022,2.6,233,diesel,automatic,RWD,47569,7.5,155.0,3,4,hatchback,silver,0.0,no,,Netherlands,1362
+863,1 Series,2023,2.4,207,diesel,automatic,FWD,16357,6.4,132.0,3,5,hatchback,grey,1.0,no,full,Spain,2317
+1790,7 Series,2018,0.0,464,electric,automatic,RWD,77972,0.0,0.0,4,4,sedan,silver,1.0,no,full,Spain,4581
+4102,Z4,2015,2.2,154,petrol,manual,RWD,114256,8.0,184.0,2,2,convertible,white,2.0,no,partial,Turkey,4741
+8840,X1,2016,2.4,163,petrol,automatic,FWD,161965,9.2,193.0,5,5,suv,black,2.0,no,,USA,1025
+8049,5 Series,2015,2.4,233,petrol,automatic,RWD,115746,7.7,169.0,4,5,sedan,red,1.0,no,full,Italy,3109
+9649,1 Series,2018,2.7,241,petrol,automatic,FWD,109471,8.9,207.0,3,4,hatchback,white,2.0,no,none,Italy,2110
+6689,X3,2015,2.3,190,hybrid,automatic,AWD,130111,4.3,85.0,5,5,suv,grey,1.0,yes,full,France,1041
+3650,X1,2007,2.4,256,diesel,automatic,FWD,230635,7.5,166.0,5,5,suv,red,5.0,no,partial,Italy,1876
+6121,7 Series,2012,3.7,286,diesel,automatic,AWD,201508,9.2,209.0,4,5,sedan,grey,2.0,yes,,Turkey,881
+3570,X7,2011,3.1,264,hybrid,automatic,AWD,188498,,129.0,5,5,suv,silver,5.0,no,full,Italy,4299
+9477,X1,2017,2.4,194,petrol,automatic,AWD,134659,7.6,176.0,5,5,suv,black,2.0,no,full,Spain,1192
+6926,X3,2014,3.1,219,petrol,automatic,AWD,177058,9.0,210.0,5,5,suv,blue,1.0,no,none,UK,4587
+1877,5 Series,2015,2.9,240,hybrid,automatic,RWD,134197,5.3,115.0,4,5,sedan,blue,2.0,no,,Germany,4510
+6694,i4,2022,0.0,422,electric,automatic,AWD,41283,0.0,0.0,4,5,coupe,blue,,no,full,Italy,3670
+593,7 Series,2013,5.0,370,hybrid,automatic,RWD,209673,6.7,163.0,4,4,sedan,black,3.0,no,partial,Germany,624
+9003,7 Series,2014,0.0,416,electric,automatic,AWD,83863,0.0,0.0,4,5,sedan,,2.0,yes,full,USA,2796
+798,X3,2024,2.0,199,hybrid,automatic,AWD,3126,4.9,105.0,5,5,suv,black,0.0,no,none,Italy,4291
+1757,X7,2018,3.7,395,petrol,automatic,AWD,169358,10.2,225.0,5,5,suv,grey,2.0,no,full,Turkey,4968
+6728,i3,2022,0.0,195,electric,automatic,RWD,6898,0.0,0.0,5,4,hatchback,red,1.0,no,full,Turkey,233
+3735,5 Series,2024,3.4,230,petrol,automatic,AWD,0,9.7,229.0,4,5,sedan,black,1.0,no,full,Spain,4566
+7992,X3,2018,2.3,266,hybrid,automatic,RWD,100435,5.3,112.0,5,5,suv,silver,2.0,yes,partial,UK,1662
+8865,7 Series,2015,3.6,337,hybrid,automatic,RWD,124120,6.4,136.0,4,5,sedan,,1.0,no,full,France,415
+6713,5 Series,2019,2.2,154,petrol,automatic,RWD,107807,8.2,175.0,4,5,sedan,grey,1.0,no,full,UK,4246
+1045,3 Series,2023,3.2,342,hybrid,automatic,RWD,4062,5.4,113.0,4,5,sedan,black,0.0,no,full,Turkey,2173
+6513,i3,2018,,166,electric,automatic,RWD,70184,0.0,0.0,5,4,hatchback,white,1.0,no,full,Spain,1456
+5050,5 Series,2009,4.3,381,diesel,automatic,AWD,265507,9.1,194.0,4,5,sedan,silver,4.0,yes,partial,Turkey,746
+9931,Z4,2018,2.3,230,petrol,automatic,RWD,118083,8.8,196.0,2,2,convertible,black,1.0,no,partial,Turkey,17
+2407,Z4,2018,2.1,207,petrol,automatic,RWD,91727,8.2,179.0,2,2,convertible,black,4.0,no,,Netherlands,1200
+1010,X1,2012,1.9,178,petrol,automatic,FWD,258320,7.1,167.0,5,5,suv,black,4.0,no,none,Netherlands,1699
+4623,3 Series,2014,2.5,202,hybrid,automatic,RWD,177902,4.8,95.0,4,5,sedan,black,3.0,no,partial,Spain,3253
+5124,i3,2012,0.0,189,electric,automatic,RWD,197427,0.0,0.0,5,4,hatchback,black,5.0,yes,partial,Italy,596
+2155,X3,2007,2.5,207,diesel,automatic,AWD,300000,7.9,171.0,5,5,suv,white,4.0,no,full,Turkey,3226
+5724,X5,2016,3.9,415,petrol,automatic,AWD,152816,10.7,239.0,5,5,suv,white,3.0,yes,full,Spain,4405
+7203,X1,2020,1.6,183,petrol,automatic,AWD,73596,8.2,,5,5,suv,white,1.0,yes,full,UK,4719
+8500,3 Series,2012,3.3,358,diesel,automatic,RWD,267996,8.5,177.0,4,5,sedan,silver,3.0,yes,partial,Netherlands,1505
+6956,3 Series,2021,2.9,219,hybrid,manual,AWD,6008,,125.0,4,5,sedan,white,2.0,yes,partial,Turkey,1412
+8248,3 Series,2007,2.9,296,petrol,manual,AWD,257764,9.0,200.0,4,5,sedan,silver,2.0,no,none,France,1965
+7389,X1,2023,2.2,304,petrol,automatic,AWD,24615,8.4,191.0,5,5,suv,black,0.0,yes,partial,Spain,371
+7163,5 Series,2015,2.6,265,petrol,automatic,AWD,88098,9.7,200.0,4,5,sedan,black,1.0,no,partial,Turkey,1340
+1865,X3,2020,,173,petrol,automatic,RWD,68336,8.1,169.0,5,5,suv,grey,1.0,,full,Spain,598
+6473,X3,2016,2.7,260,hybrid,automatic,RWD,153537,5.4,118.0,5,5,suv,white,3.0,no,full,Spain,238
+8386,X3,2010,2.2,230,diesel,automatic,AWD,300000,6.7,,5,5,suv,black,,no,partial,USA,3400
+1478,X5,2019,3.5,315,petrol,automatic,AWD,70409,10.5,237.0,5,5,suv,black,1.0,no,none,Netherlands,2067
+1454,X1,2023,2.1,250,hybrid,automatic,FWD,42421,4.6,87.0,5,5,suv,black,0.0,no,full,Turkey,810
+9609,5 Series,2017,3.6,275,petrol,automatic,AWD,131085,9.5,217.0,4,5,sedan,silver,2.0,no,full,Italy,1094
+1967,5 Series,2012,3.7,259,diesel,automatic,AWD,108027,9.1,209.0,4,5,sedan,black,5.0,no,partial,Turkey,4324
+7657,X5,2012,3.0,251,hybrid,automatic,AWD,224873,6.1,,5,5,suv,blue,3.0,no,full,Germany,4760
+5291,1 Series,2006,2.6,217,petrol,manual,FWD,300000,8.8,184.0,5,4,hatchback,white,3.0,,none,France,3676
+8759,1 Series,2008,2.1,185,petrol,manual,RWD,298844,7.8,173.0,3,4,hatchback,black,3.0,no,partial,Netherlands,3464
+2132,5 Series,2020,3.4,341,petrol,automatic,AWD,25931,9.6,203.0,4,5,sedan,black,2.0,yes,partial,UK,3103
+707,X3,2018,3.4,253,petrol,,RWD,91499,10.2,245.0,5,5,suv,silver,1.0,,partial,Netherlands,2749
+6368,5 Series,2018,3.9,324,hybrid,automatic,RWD,71135,6.3,132.0,4,5,sedan,black,4.0,no,full,Netherlands,2295
+224,X1,2008,1.7,153,diesel,automatic,FWD,138345,6.2,120.0,5,5,suv,black,5.0,yes,partial,UK,4192
+1352,1 Series,2019,2.0,219,hybrid,automatic,FWD,86785,4.2,93.0,3,5,hatchback,black,2.0,no,full,Germany,3708
+1778,X3,2007,3.1,319,petrol,automatic,RWD,300000,8.0,176.0,5,5,suv,white,5.0,no,partial,Turkey,3018
+4611,X1,2016,2.0,230,diesel,automatic,FWD,152945,6.8,156.0,5,5,suv,blue,2.0,yes,full,Spain,4252
+2869,X3,2023,2.9,243,hybrid,automatic,RWD,19367,5.3,111.0,5,5,suv,white,0.0,no,partial,USA,803
+1655,5 Series,2014,4.1,300,diesel,automatic,RWD,186161,8.9,192.0,4,5,sedan,silver,2.0,no,full,France,4190
+6454,7 Series,2024,4.2,350,hybrid,automatic,AWD,0,6.7,134.0,4,5,sedan,black,0.0,no,full,Turkey,3705
+1361,X1,2020,2.1,251,petrol,automatic,AWD,28701,8.0,193.0,5,5,suv,grey,1.0,no,full,Germany,751
+6852,7 Series,2021,3.6,313,hybrid,automatic,AWD,25438,,141.0,4,4,sedan,silver,1.0,no,partial,Turkey,4644
+3519,X3,2007,2.9,267,diesel,automatic,AWD,245684,7.8,165.0,5,5,suv,white,3.0,no,partial,France,2531
+656,Z4,2018,2.4,236,petrol,automatic,RWD,73905,7.7,180.0,2,2,convertible,white,2.0,no,none,France,621
+248,i3,2020,0.0,160,electric,automatic,RWD,56810,0.0,0.0,5,4,hatchback,blue,1.0,no,full,Netherlands,2297
+199,X7,2020,4.3,389,diesel,automatic,AWD,47950,9.5,210.0,5,5,suv,silver,0.0,no,full,UK,3828
+4303,3 Series,2008,2.7,268,petrol,automatic,AWD,161293,8.6,182.0,4,5,sedan,silver,2.0,yes,full,Italy,566
+2996,5 Series,2013,2.6,207,diesel,automatic,AWD,229800,6.7,167.0,4,5,sedan,black,3.0,no,,Netherlands,1135
+4976,3 Series,2024,1.6,127,petrol,automatic,AWD,0,6.4,,4,5,sedan,grey,1.0,no,,Germany,1204
+7887,3 Series,2008,3.2,324,diesel,manual,AWD,257477,8.2,189.0,4,5,sedan,white,2.0,no,full,Italy,1047
+8285,i4,2017,0.0,372,electric,,RWD,131980,0.0,0.0,4,5,coupe,blue,3.0,no,none,Italy,51
+1809,7 Series,2021,0.0,380,electric,automatic,AWD,65312,0.0,0.0,4,4,sedan,blue,0.0,no,full,Italy,3651
+1902,X1,2023,1.9,234,hybrid,automatic,AWD,35455,4.7,108.0,5,5,suv,black,0.0,,full,USA,1044
+1380,3 Series,2021,2.9,244,petrol,automatic,AWD,39655,8.6,192.0,4,5,sedan,red,1.0,no,none,Germany,2181
+2269,5 Series,2011,3.4,347,hybrid,automatic,AWD,180205,5.4,105.0,4,5,sedan,silver,4.0,no,partial,UK,2688
+3598,7 Series,2024,0.0,467,electric,automatic,RWD,25085,0.0,0.0,4,5,sedan,black,0.0,no,full,France,534
+9742,X3,2021,2.6,231,diesel,automatic,RWD,66252,6.8,165.0,5,5,suv,white,2.0,no,full,Netherlands,3184
+938,X3,2010,3.2,302,diesel,automatic,RWD,200439,8.1,174.0,5,5,suv,black,5.0,no,full,UK,3857
+1692,X3,2016,2.3,205,diesel,automatic,RWD,148089,,,5,5,suv,black,3.0,no,full,Spain,443
+550,7 Series,2015,4.1,335,hybrid,automatic,AWD,154521,6.8,165.0,4,5,sedan,red,1.0,yes,full,Germany,3604
+4517,X3,2023,3.1,250,hybrid,automatic,AWD,0,5.7,123.0,5,5,suv,silver,,no,full,Spain,195
+3147,3 Series,2024,2.2,226,petrol,automatic,AWD,20309,8.3,180.0,4,5,sedan,black,0.0,no,full,UK,1115
+8575,i4,2017,0.0,303,electric,automatic,RWD,96902,0.0,0.0,4,5,coupe,grey,3.0,no,full,USA,765
+3044,5 Series,2013,2.1,249,diesel,automatic,RWD,177250,6.4,133.0,4,5,sedan,grey,4.0,no,full,Germany,1945
+4418,1 Series,2016,1.6,127,diesel,automatic,RWD,131741,5.6,122.0,3,4,hatchback,black,2.0,no,full,Turkey,3247
+7739,3 Series,2023,3.4,253,petrol,automatic,RWD,10610,10.4,223.0,4,5,sedan,white,0.0,no,full,Germany,3002
+8123,5 Series,2023,2.8,181,hybrid,automatic,AWD,28085,4.9,95.0,4,5,sedan,grey,1.0,no,partial,Italy,1432
+2182,X7,2017,3.2,337,hybrid,automatic,AWD,126176,6.0,139.0,5,5,suv,white,1.0,no,full,Netherlands,4200
+7387,3 Series,2021,1.8,195,hybrid,automatic,AWD,59382,4.5,97.0,4,5,sedan,white,1.0,no,full,Netherlands,3095
+2881,X5,2013,3.1,221,petrol,automatic,AWD,211577,9.9,231.0,5,5,suv,grey,4.0,no,full,Turkey,2922
+762,X7,2019,3.1,267,petrol,automatic,AWD,66878,8.8,214.0,5,5,suv,black,1.0,no,partial,France,644
+2875,i4,2012,0.0,425,electric,automatic,AWD,253249,0.0,0.0,4,5,coupe,black,3.0,yes,partial,Netherlands,1049
+1031,Z4,2023,2.7,257,petrol,automatic,RWD,24215,10.0,213.0,2,2,convertible,blue,0.0,no,full,Germany,3745
+9132,X5,2020,3.2,302,petrol,automatic,AWD,42872,9.9,212.0,5,5,suv,white,1.0,no,full,France,4093
+6297,X1,2016,1.7,200,diesel,automatic,FWD,114443,6.3,133.0,5,5,suv,,1.0,,full,Spain,4403
+7217,1 Series,2020,1.8,146,diesel,automatic,FWD,1518,6.6,143.0,5,5,hatchback,,2.0,no,full,Spain,120
+8823,Z4,2015,2.3,240,petrol,automatic,RWD,206903,8.1,160.0,2,2,convertible,black,2.0,no,partial,Spain,2052
+5420,i7,2023,0.0,316,electric,automatic,AWD,0,0.0,0.0,4,5,sedan,white,0.0,no,full,USA,4258
+8854,3 Series,2019,3.0,239,hybrid,automatic,AWD,78637,5.1,126.0,4,5,sedan,black,2.0,no,full,Italy,4888
+2854,7 Series,2020,3.9,246,diesel,automatic,RWD,82436,,213.0,4,5,sedan,blue,2.0,yes,full,Turkey,4334
+3848,i3,2020,0.0,177,electric,automatic,RWD,54827,0.0,0.0,5,4,hatchback,blue,0.0,no,full,USA,4691
+8182,X3,2010,2.8,186,diesel,automatic,RWD,157990,7.8,160.0,5,5,suv,black,3.0,yes,partial,Turkey,134
+2964,i3,2019,0.0,216,electric,automatic,RWD,86332,0.0,0.0,5,4,hatchback,white,3.0,no,full,UK,2460
+842,X3,2013,2.2,200,diesel,automatic,AWD,142353,6.5,138.0,5,5,suv,silver,5.0,no,partial,USA,1954
+355,i3,2023,0.0,173,electric,automatic,RWD,41667,0.0,0.0,5,4,hatchback,black,,no,full,France,2463
+5441,3 Series,2023,2.4,263,diesel,automatic,RWD,22838,7.6,169.0,4,5,sedan,grey,0.0,no,partial,Netherlands,184
+775,5 Series,2010,2.8,259,hybrid,automatic,AWD,259642,6.0,112.0,4,5,sedan,black,2.0,yes,full,Spain,1392
+8089,i3,2022,0.0,214,electric,automatic,RWD,570,0.0,0.0,5,4,hatchback,white,1.0,no,partial,USA,2276
+2907,i7,2018,0.0,439,electric,automatic,AWD,102780,0.0,0.0,4,5,sedan,white,1.0,no,partial,Spain,511
+4652,X7,2012,3.7,273,petrol,automatic,AWD,238348,9.2,197.0,5,5,suv,black,2.0,no,full,Spain,4729
+7394,X5,2005,4.0,299,hybrid,automatic,AWD,191516,7.2,189.0,5,5,suv,white,5.0,yes,partial,USA,4054
+2794,5 Series,2020,3.5,304,petrol,automatic,AWD,88387,9.5,213.0,4,5,sedan,grey,0.0,no,full,Germany,3137
+5359,Z4,2005,2.1,215,petrol,automatic,RWD,250539,7.9,170.0,2,2,convertible,white,3.0,no,full,UK,2669
+2433,X3,2022,2.6,214,petrol,automatic,RWD,25758,8.8,196.0,5,5,suv,red,1.0,no,full,Spain,4773
+9888,X5,2015,3.1,245,hybrid,automatic,AWD,181414,6.1,135.0,5,5,suv,black,3.0,no,full,Netherlands,4861
+320,X3,2012,2.1,164,petrol,,AWD,194348,8.1,178.0,5,5,suv,silver,2.0,no,full,Turkey,2117
+93,i7,2016,0.0,499,electric,automatic,AWD,147522,0.0,0.0,4,5,sedan,blue,1.0,no,full,Spain,251
+1129,X3,2023,2.6,328,diesel,automatic,AWD,36895,7.6,163.0,5,5,suv,black,0.0,no,partial,USA,3526
+7252,1 Series,2022,2.9,219,hybrid,automatic,FWD,34407,5.8,132.0,5,5,hatchback,white,1.0,no,full,Turkey,3559
+3535,3 Series,2017,2.3,158,diesel,automatic,RWD,77578,6.8,137.0,4,5,sedan,black,2.0,no,full,Netherlands,4011
+3211,7 Series,2007,3.6,217,hybrid,automatic,AWD,253971,6.1,137.0,4,4,sedan,white,5.0,no,partial,UK,1507
+7953,7 Series,2021,4.9,359,petrol,automatic,RWD,69684,12.0,266.0,4,5,sedan,white,1.0,no,full,Turkey,122
+4051,X5,2019,3.3,251,diesel,automatic,AWD,1259,7.4,152.0,5,5,suv,red,1.0,no,full,Turkey,4259
+2729,X5,2018,3.5,324,diesel,automatic,AWD,77679,8.0,177.0,5,5,suv,blue,2.0,yes,full,UK,3333
+8911,X5,2022,3.6,308,petrol,automatic,AWD,23146,10.6,240.0,5,5,suv,black,1.0,no,full,Netherlands,1871
+4701,3 Series,2022,3.2,350,diesel,automatic,AWD,63076,8.4,186.0,4,5,sedan,silver,1.0,no,partial,USA,3692
+5823,3 Series,2018,2.7,227,diesel,automatic,AWD,25312,7.4,157.0,4,5,sedan,white,3.0,no,partial,Turkey,567
+5991,X1,2006,1.7,218,diesel,automatic,FWD,223297,6.5,151.0,5,5,suv,black,2.0,no,none,Netherlands,1371
+5425,X7,2012,3.8,354,hybrid,automatic,AWD,109974,6.3,132.0,5,5,suv,black,3.0,yes,partial,UK,3185
+4886,X3,2022,,233,petrol,automatic,AWD,26800,7.4,165.0,5,5,suv,white,1.0,yes,full,Italy,3955
+4295,X1,2008,2.1,219,diesel,automatic,FWD,56930,7.5,180.0,5,5,suv,white,5.0,no,full,Italy,1056
+933,5 Series,2021,2.5,222,diesel,automatic,AWD,16164,7.6,170.0,4,5,sedan,red,1.0,no,partial,Netherlands,856
+3370,3 Series,2019,3.1,275,petrol,automatic,RWD,56312,9.3,209.0,4,5,sedan,white,3.0,yes,partial,France,3838
+5269,i3,2019,0.0,159,electric,automatic,RWD,52039,0.0,0.0,5,4,hatchback,grey,2.0,no,partial,Spain,2860
+5297,3 Series,2013,3.4,313,hybrid,automatic,RWD,43517,5.9,133.0,4,5,sedan,white,,no,none,France,4769
+2615,3 Series,2009,3.4,296,petrol,manual,AWD,208063,10.6,,4,5,sedan,black,4.0,,full,USA,776
+8120,i4,2020,0.0,439,electric,automatic,RWD,30009,,0.0,4,5,coupe,silver,0.0,yes,full,France,720
+2442,X5,2019,3.1,311,diesel,automatic,AWD,50402,6.8,156.0,5,5,suv,grey,4.0,yes,partial,USA,2710
+3291,7 Series,2009,4.9,410,hybrid,automatic,AWD,287559,7.5,169.0,4,4,sedan,blue,4.0,no,partial,UK,2654
+8836,X7,2017,3.7,342,hybrid,automatic,AWD,81745,5.8,140.0,5,5,suv,,4.0,no,full,Netherlands,4877
+9766,5 Series,2009,3.0,244,petrol,automatic,RWD,168719,9.4,198.0,4,5,sedan,blue,5.0,yes,partial,USA,602
+1832,3 Series,2019,3.0,322,petrol,automatic,AWD,92722,9.5,202.0,4,5,sedan,blue,2.0,yes,full,Italy,3822
+7693,5 Series,2007,3.1,247,petrol,automatic,RWD,223202,9.0,187.0,4,5,sedan,red,4.0,yes,full,USA,1244
+1270,3 Series,2022,2.9,283,hybrid,automatic,RWD,41511,5.3,116.0,4,5,sedan,white,1.0,no,full,Germany,4845
+5126,Z4,2020,2.1,179,petrol,automatic,RWD,79340,8.0,177.0,2,2,convertible,silver,1.0,no,full,Netherlands,4841
+7530,X1,2014,,245,petrol,automatic,AWD,115349,7.8,183.0,5,5,suv,white,3.0,no,partial,Turkey,318
+2287,X3,2020,3.0,264,diesel,automatic,RWD,27453,7.5,167.0,5,5,suv,silver,0.0,no,full,France,828
+7210,X5,2019,3.2,294,diesel,automatic,AWD,131746,8.0,171.0,5,5,suv,silver,1.0,no,full,Netherlands,3263
+795,5 Series,2022,2.7,261,petrol,automatic,AWD,23162,,190.0,4,5,sedan,grey,2.0,no,full,Netherlands,274
+6848,3 Series,2017,2.2,214,diesel,automatic,AWD,109035,6.9,,4,5,sedan,white,2.0,no,partial,UK,2664
+1796,X1,2021,1.9,210,petrol,automatic,FWD,37171,7.0,160.0,5,5,suv,blue,0.0,yes,full,Germany,549
+3151,3 Series,2021,2.5,231,hybrid,automatic,RWD,47095,5.6,108.0,4,5,sedan,black,1.0,no,full,Germany,3641
+9038,Z4,2018,2.5,238,petrol,automatic,RWD,115870,8.6,186.0,2,2,convertible,blue,3.0,no,partial,France,4053
+7761,X5,2024,3.5,335,hybrid,automatic,AWD,0,5.8,113.0,5,5,suv,red,0.0,no,full,France,4892
+5427,X1,2017,1.7,180,petrol,automatic,FWD,65329,7.2,158.0,5,5,suv,white,1.0,no,partial,Italy,2934
+458,i4,2019,0.0,258,electric,,AWD,52149,0.0,0.0,4,5,coupe,red,2.0,no,full,Spain,605
+4068,i7,2018,,632,electric,automatic,AWD,83707,0.0,0.0,4,5,sedan,silver,3.0,no,partial,USA,896
+7111,5 Series,2016,2.1,236,petrol,automatic,RWD,121386,8.1,181.0,4,5,sedan,silver,1.0,yes,full,Spain,527
+1802,X5,2006,3.6,249,petrol,automatic,AWD,278285,9.7,212.0,5,5,suv,blue,2.0,yes,partial,UK,4607
+8382,3 Series,2021,2.8,268,diesel,,RWD,31112,8.2,179.0,4,5,sedan,grey,0.0,no,full,UK,2347
+122,5 Series,2021,4.0,345,petrol,automatic,AWD,57188,11.1,252.0,4,5,sedan,grey,,no,full,Germany,3439
+337,X7,2020,3.8,315,petrol,automatic,AWD,41670,10.3,222.0,5,5,suv,silver,1.0,no,full,USA,4998
+2118,3 Series,2016,1.9,237,petrol,manual,RWD,222243,7.1,152.0,4,5,sedan,black,2.0,yes,partial,Spain,4826
+723,X1,2016,2.2,256,petrol,automatic,AWD,151445,8.1,170.0,5,5,suv,black,2.0,yes,full,USA,3922
+1495,7 Series,2007,3.9,287,petrol,automatic,AWD,300000,9.8,221.0,4,4,sedan,white,5.0,no,full,Netherlands,298
+3334,X7,2019,4.4,332,hybrid,automatic,AWD,81084,6.7,139.0,5,5,suv,silver,2.0,no,partial,Spain,2119
+2265,i3,2024,0.0,226,electric,automatic,RWD,25498,0.0,0.0,5,4,hatchback,black,0.0,yes,full,Turkey,2536
+6787,1 Series,2020,2.6,261,petrol,manual,RWD,61051,7.9,161.0,5,4,hatchback,grey,1.0,no,full,Italy,4203
+2866,3 Series,2019,2.9,266,diesel,manual,RWD,47018,7.4,181.0,4,5,sedan,blue,1.0,no,full,Turkey,3254
+4603,7 Series,2021,4.4,416,hybrid,automatic,AWD,29261,7.2,161.0,4,5,sedan,blue,1.0,no,full,USA,3725
+4468,X1,2018,1.6,131,hybrid,automatic,AWD,60414,,100.0,5,5,suv,silver,3.0,no,partial,Italy,1260
+4788,X3,2024,2.1,184,petrol,automatic,AWD,4279,7.9,181.0,5,5,suv,black,1.0,no,full,UK,1558
+5293,3 Series,2013,3.3,227,hybrid,automatic,AWD,92591,5.7,122.0,4,5,sedan,black,3.0,no,full,Germany,3269
+1367,3 Series,2005,2.7,264,hybrid,manual,AWD,265467,5.4,110.0,4,5,sedan,black,3.0,no,partial,Netherlands,4046
+2252,X5,2021,3.9,349,petrol,automatic,AWD,14078,10.0,210.0,5,5,suv,silver,0.0,no,none,Italy,756
+514,5 Series,2023,3.3,229,diesel,automatic,RWD,6055,7.6,180.0,4,5,sedan,white,0.0,no,full,Germany,1010
+4681,X1,2024,1.8,160,petrol,automatic,AWD,14249,7.9,166.0,5,5,suv,white,0.0,no,full,Turkey,2794
+3796,5 Series,2013,3.4,259,petrol,automatic,RWD,140769,10.2,231.0,4,5,sedan,white,5.0,no,partial,Germany,2905
+6427,X3,2011,3.1,314,diesel,automatic,RWD,147351,7.9,164.0,5,5,suv,silver,4.0,yes,full,Netherlands,1870
+4683,5 Series,2011,2.2,238,diesel,automatic,RWD,227946,6.7,155.0,4,5,sedan,red,4.0,yes,partial,Turkey,2229
+3949,i3,2024,0.0,210,electric,automatic,RWD,0,0.0,0.0,5,4,hatchback,grey,0.0,no,full,Netherlands,1173
+3521,X1,2020,1.6,187,petrol,automatic,FWD,84234,5.8,118.0,5,5,suv,black,2.0,no,none,UK,1832
+7384,3 Series,2024,2.6,228,petrol,automatic,AWD,3449,8.6,207.0,4,5,sedan,black,0.0,no,full,Italy,376
+1119,3 Series,2021,1.9,238,hybrid,automatic,RWD,55784,4.7,93.0,4,5,sedan,black,1.0,yes,full,Italy,3853
+8713,i7,2017,0.0,355,electric,automatic,AWD,141543,0.0,0.0,4,5,sedan,silver,1.0,no,partial,Spain,3616
+851,i3,2021,0.0,169,electric,automatic,RWD,55473,0.0,0.0,5,4,hatchback,black,1.0,no,full,UK,798
+796,5 Series,2007,2.9,227,hybrid,automatic,AWD,300000,5.9,130.0,4,5,sedan,white,3.0,no,none,France,378
+7235,5 Series,2012,3.2,260,petrol,automatic,AWD,84846,9.8,,4,5,sedan,black,3.0,yes,full,Netherlands,1158
+1175,1 Series,2018,2.9,270,diesel,automatic,FWD,63278,,160.0,5,4,hatchback,grey,1.0,no,full,Netherlands,3819
+1657,X1,2009,2.4,202,hybrid,automatic,FWD,231043,,105.0,5,5,suv,blue,2.0,no,partial,USA,2792
+4242,X3,2021,2.7,228,hybrid,automatic,RWD,72494,5.1,102.0,5,5,suv,silver,1.0,no,full,Italy,2240
+2284,3 Series,2015,2.6,231,petrol,automatic,RWD,160351,8.6,195.0,4,5,sedan,silver,3.0,no,full,UK,4035
+3460,5 Series,2022,2.3,322,petrol,automatic,RWD,57090,8.2,183.0,4,5,sedan,silver,1.0,no,full,Italy,2662
+4526,5 Series,2018,2.0,242,petrol,automatic,AWD,76069,,171.0,4,5,sedan,white,1.0,yes,partial,Germany,4012
+2624,5 Series,2024,3.5,332,petrol,automatic,AWD,0,10.3,212.0,4,5,sedan,silver,0.0,no,full,Netherlands,2957
+1936,1 Series,2015,2.6,231,diesel,automatic,FWD,192929,7.0,150.0,5,4,hatchback,black,4.0,yes,full,Germany,3927
+2465,X1,2010,1.8,201,hybrid,automatic,FWD,143117,4.7,111.0,5,5,suv,,3.0,,full,Italy,1038
+8184,7 Series,2016,4.2,335,petrol,automatic,AWD,124336,10.9,246.0,4,5,sedan,blue,1.0,no,full,Turkey,3259
+4657,3 Series,2017,3.5,370,hybrid,automatic,RWD,81744,6.4,139.0,4,5,sedan,white,2.0,yes,full,France,1344
+9538,3 Series,2015,3.1,333,petrol,automatic,RWD,146507,10.5,242.0,4,5,sedan,white,1.0,no,full,Germany,2505
+884,X3,2006,2.6,303,diesel,automatic,AWD,266376,7.1,154.0,5,5,suv,white,3.0,yes,partial,UK,1721
+6951,5 Series,2019,2.4,213,hybrid,automatic,RWD,78700,5.2,124.0,4,5,sedan,white,3.0,no,full,UK,4663
+305,X3,2020,2.4,278,petrol,automatic,RWD,96032,7.8,176.0,5,5,suv,black,1.0,no,,USA,175
+5014,3 Series,2015,3.3,319,diesel,automatic,AWD,81610,8.0,173.0,4,5,sedan,black,1.0,yes,partial,UK,4893
+838,X5,2023,3.6,317,hybrid,automatic,AWD,0,6.7,129.0,5,5,suv,black,0.0,no,full,Netherlands,1909
+40,X1,2013,2.4,168,diesel,automatic,AWD,182589,5.8,135.0,5,5,suv,silver,3.0,yes,full,UK,45
+4090,X7,2024,3.1,299,petrol,automatic,AWD,9973,9.0,201.0,5,5,suv,black,1.0,no,full,UK,3409
+453,X5,2023,4.2,429,petrol,automatic,AWD,21173,11.0,239.0,5,5,suv,grey,1.0,no,full,Netherlands,4674
+94,i3,2022,0.0,187,electric,automatic,RWD,27217,0.0,0.0,5,4,hatchback,black,2.0,no,full,France,1075
+8714,5 Series,2011,4.3,332,petrol,automatic,RWD,294016,10.1,219.0,4,5,sedan,white,5.0,yes,partial,Turkey,2829
+2089,3 Series,2006,2.4,211,hybrid,manual,AWD,237436,5.0,93.0,4,5,sedan,black,4.0,yes,partial,Netherlands,1504
+6516,5 Series,2019,2.5,292,diesel,automatic,RWD,80917,,170.0,4,5,sedan,silver,1.0,no,full,Turkey,2309
+3393,X5,2009,4.0,308,hybrid,automatic,AWD,263258,6.8,153.0,5,5,suv,black,4.0,no,full,Turkey,1436
+5272,X3,2005,2.0,193,hybrid,automatic,RWD,280772,4.5,97.0,5,5,suv,white,2.0,yes,full,Netherlands,2418
+4405,3 Series,2012,2.6,253,diesel,manual,RWD,115633,6.9,153.0,4,5,sedan,blue,3.0,yes,partial,Spain,3986
+6556,5 Series,2017,3.3,300,diesel,automatic,RWD,124037,8.4,178.0,4,5,sedan,white,2.0,yes,full,Netherlands,3098
+76,Z4,2011,2.6,244,petrol,,RWD,59371,9.1,198.0,2,2,convertible,grey,4.0,no,full,USA,4588
+9732,1 Series,2021,2.5,235,diesel,automatic,FWD,30361,7.1,156.0,5,5,hatchback,grey,1.0,no,full,Italy,283
+6947,i3,2016,0.0,175,electric,automatic,RWD,65067,0.0,0.0,5,4,hatchback,blue,4.0,no,partial,Netherlands,4918
+5969,5 Series,2016,3.1,300,petrol,automatic,AWD,154953,10.1,,4,5,sedan,black,1.0,no,partial,UK,842
+1039,Z4,2017,2.4,219,petrol,automatic,RWD,170368,8.1,177.0,2,2,convertible,white,3.0,yes,partial,Spain,1513
+9278,X5,2014,3.2,306,diesel,automatic,AWD,101146,7.4,162.0,5,5,suv,white,4.0,no,full,Germany,1168
+3282,1 Series,2008,2.8,250,petrol,automatic,RWD,163104,8.3,169.0,5,4,hatchback,blue,5.0,no,partial,Spain,1592
+536,X3,2022,2.7,322,petrol,automatic,AWD,43395,8.7,188.0,5,5,suv,blue,1.0,no,full,Italy,3460
+6948,X1,2008,,222,diesel,automatic,FWD,250334,6.6,154.0,5,5,suv,silver,4.0,yes,full,France,3165
+1431,X7,2011,3.2,302,petrol,automatic,AWD,90742,10.5,233.0,5,5,suv,white,4.0,no,partial,Germany,2284
+5697,3 Series,2016,1.6,127,hybrid,automatic,AWD,103125,4.2,99.0,4,5,sedan,black,2.0,no,none,UK,3575
+8056,Z4,2017,2.8,280,petrol,automatic,RWD,117450,8.8,199.0,2,2,convertible,black,2.0,no,none,UK,4870
+8957,5 Series,2019,2.7,207,hybrid,automatic,RWD,92874,5.3,105.0,4,5,sedan,black,,no,none,France,2305
+1146,5 Series,2023,4.0,360,diesel,automatic,RWD,19370,9.7,,4,5,sedan,white,0.0,no,full,Netherlands,952
+1691,5 Series,2023,3.9,369,hybrid,automatic,RWD,28887,6.2,133.0,4,5,sedan,white,0.0,no,full,Spain,4942
+3528,1 Series,2009,1.6,192,hybrid,manual,RWD,163512,4.4,109.0,3,4,hatchback,white,4.0,no,partial,France,3053
+5505,i7,2024,0.0,516,electric,automatic,AWD,0,0.0,0.0,4,4,sedan,silver,0.0,no,full,USA,4559
+8127,7 Series,2005,0.0,306,electric,automatic,AWD,300000,0.0,0.0,4,5,sedan,silver,3.0,no,partial,UK,2685
+3854,5 Series,2017,2.1,216,diesel,automatic,RWD,114711,6.6,150.0,4,5,sedan,black,1.0,no,full,Germany,1489
+3046,X3,2011,2.6,218,hybrid,automatic,RWD,236918,,139.0,5,5,suv,blue,3.0,no,partial,Turkey,927
+1311,5 Series,2015,2.4,306,petrol,automatic,RWD,176719,8.0,185.0,4,5,sedan,white,1.0,yes,full,Netherlands,1209
+8546,i7,2015,0.0,508,electric,automatic,AWD,183246,0.0,0.0,4,4,sedan,black,3.0,yes,full,Spain,3973
+1633,7 Series,2022,3.4,253,petrol,automatic,AWD,30258,9.3,206.0,4,5,sedan,red,0.0,no,full,Germany,3545
+243,X7,2020,3.6,349,hybrid,automatic,AWD,71810,6.1,125.0,5,5,suv,black,0.0,no,partial,Italy,4361
+2129,5 Series,2023,3.3,321,petrol,,AWD,18409,10.0,214.0,4,5,sedan,black,0.0,no,full,Turkey,1921
+3542,1 Series,2017,2.0,199,petrol,automatic,FWD,121147,7.6,162.0,5,4,hatchback,blue,1.0,no,full,Netherlands,351
+8727,X5,2021,3.0,291,diesel,automatic,AWD,62920,8.2,193.0,5,5,suv,silver,1.0,no,full,Germany,4898
+2500,3 Series,2015,3.1,271,diesel,automatic,RWD,158268,8.2,,4,5,sedan,silver,4.0,no,partial,France,3393
+9942,i3,2019,0.0,164,electric,automatic,RWD,63488,0.0,0.0,5,4,hatchback,black,1.0,no,full,Spain,2721
+1521,3 Series,2017,2.1,241,petrol,automatic,RWD,113686,8.8,218.0,4,5,sedan,silver,1.0,no,full,USA,4981
+7745,X5,2008,,327,petrol,automatic,AWD,188063,11.6,251.0,5,5,suv,white,5.0,yes,full,Turkey,718
+881,X3,2020,3.3,251,diesel,automatic,AWD,91371,8.8,198.0,5,5,suv,silver,2.0,no,partial,Italy,2702
+5840,1 Series,2019,2.6,225,diesel,automatic,RWD,49407,8.1,185.0,3,5,hatchback,white,1.0,no,none,Spain,2722
+3365,3 Series,2010,2.3,219,hybrid,automatic,AWD,293825,5.3,123.0,4,5,sedan,grey,3.0,no,full,Italy,4561
+1091,X5,2015,4.0,356,hybrid,automatic,AWD,168250,6.6,140.0,5,5,suv,black,3.0,no,none,Spain,308
+7343,7 Series,2014,3.5,249,hybrid,automatic,AWD,76342,6.4,134.0,4,4,sedan,white,2.0,no,full,Turkey,1675
+5091,1 Series,2005,2.8,259,petrol,manual,FWD,191959,9.4,,5,5,hatchback,white,3.0,no,partial,France,833
+7415,X3,2016,2.9,236,petrol,automatic,AWD,98386,9.1,179.0,5,5,suv,blue,1.0,no,,Turkey,366
+6130,X5,2020,3.7,320,petrol,automatic,AWD,95500,10.7,221.0,5,5,suv,white,2.0,no,full,Netherlands,4506
+7475,X3,2018,2.8,216,petrol,automatic,AWD,129273,8.5,189.0,5,5,suv,white,,no,partial,Netherlands,2078
+685,5 Series,2006,4.4,395,petrol,automatic,AWD,300000,11.2,250.0,4,5,sedan,red,,no,none,USA,4038
+129,3 Series,2021,2.6,219,hybrid,automatic,AWD,35659,5.0,100.0,4,5,sedan,black,1.0,no,partial,Spain,4846
+3368,i7,2008,0.0,429,electric,automatic,RWD,201249,0.0,0.0,4,5,sedan,black,4.0,yes,partial,USA,4479
+7109,3 Series,2019,2.3,227,diesel,automatic,AWD,73616,6.9,153.0,4,5,sedan,black,2.0,no,full,France,1746
+8159,X3,2024,2.5,248,hybrid,automatic,AWD,4206,5.5,118.0,5,5,suv,black,0.0,no,none,UK,19
+764,X3,2016,2.6,231,petrol,automatic,RWD,74501,8.4,,5,5,suv,black,1.0,no,full,France,1322
+7305,Z4,2014,2.0,187,petrol,automatic,RWD,177350,7.3,168.0,2,2,convertible,blue,2.0,no,partial,Spain,3567
+3027,3 Series,2015,2.7,210,hybrid,automatic,AWD,167867,4.4,94.0,4,5,sedan,white,2.0,no,partial,Netherlands,2521
+7773,7 Series,2023,4.5,351,petrol,automatic,RWD,13870,11.0,235.0,4,4,sedan,blue,0.0,no,full,USA,218
+1544,i3,2010,0.0,133,electric,automatic,RWD,275047,0.0,0.0,5,4,hatchback,black,3.0,yes,partial,Netherlands,1487
+1027,i4,2020,0.0,382,electric,automatic,RWD,70051,0.0,0.0,4,5,coupe,red,1.0,no,full,UK,438
+8554,3 Series,2011,2.5,218,petrol,manual,AWD,188136,9.0,196.0,4,5,sedan,white,4.0,yes,partial,Italy,4174
+3015,3 Series,2017,1.6,180,petrol,automatic,RWD,114595,8.2,173.0,4,5,sedan,silver,2.0,yes,full,Germany,2750
+7869,1 Series,2023,1.8,227,diesel,automatic,FWD,0,6.5,154.0,3,4,hatchback,black,0.0,,full,Italy,3288
+5147,X3,2017,3.3,331,petrol,automatic,AWD,153149,8.8,193.0,5,5,suv,,3.0,no,partial,Germany,3433
+4490,X1,2017,2.0,200,hybrid,automatic,AWD,184873,4.7,107.0,5,5,suv,black,1.0,no,full,Germany,2525
+1476,1 Series,2020,1.6,127,hybrid,automatic,RWD,14010,4.2,93.0,3,4,hatchback,grey,1.0,no,partial,USA,4650
+3937,X1,2016,1.6,163,hybrid,automatic,FWD,153876,4.5,93.0,5,5,suv,blue,1.0,yes,partial,Turkey,3688
+9115,i4,2019,0.0,275,electric,automatic,AWD,86441,0.0,0.0,4,5,coupe,blue,1.0,no,full,Turkey,2763
+7494,Z4,2005,2.6,285,petrol,automatic,RWD,300000,8.6,192.0,2,2,convertible,grey,5.0,yes,partial,UK,802
+3064,i4,2019,0.0,383,electric,automatic,RWD,39844,0.0,0.0,4,5,coupe,silver,1.0,no,full,Germany,2997
+1560,X3,2018,2.2,214,diesel,automatic,AWD,40541,6.8,141.0,5,5,suv,black,2.0,no,full,USA,2228
+9452,i3,2016,0.0,164,electric,automatic,RWD,127341,0.0,0.0,5,4,hatchback,white,3.0,no,full,France,4785
+8367,1 Series,2014,2.1,179,hybrid,manual,RWD,160444,4.6,108.0,3,4,hatchback,blue,4.0,no,,Italy,2077
+7465,3 Series,2005,3.1,313,diesel,manual,AWD,231586,8.3,186.0,4,5,sedan,blue,2.0,no,none,Spain,582
+3791,i4,2013,0.0,296,electric,automatic,RWD,232946,0.0,0.0,4,5,coupe,red,2.0,no,partial,Italy,203
+6176,i7,2015,0.0,467,electric,automatic,RWD,114823,0.0,0.0,4,4,sedan,silver,1.0,no,partial,Spain,4346
+4440,X7,2024,4.2,343,hybrid,automatic,AWD,0,6.7,143.0,5,5,suv,white,0.0,no,full,Netherlands,3478
+9067,X5,2022,3.5,220,hybrid,automatic,AWD,0,5.8,132.0,5,5,suv,black,1.0,no,partial,Germany,2929
+1990,X7,2019,4.1,359,hybrid,automatic,AWD,110172,6.6,146.0,5,5,suv,white,2.0,no,none,Netherlands,3085
+5333,i4,2017,0.0,413,electric,automatic,AWD,68838,0.0,0.0,4,5,coupe,grey,4.0,no,partial,Spain,1018
+2184,X5,2008,3.1,310,diesel,automatic,AWD,176235,8.6,183.0,5,5,suv,blue,5.0,yes,full,Italy,1583
+5455,X5,2017,3.6,319,petrol,automatic,AWD,157197,9.6,221.0,5,5,suv,white,1.0,yes,partial,France,1032
+6425,1 Series,2016,2.4,249,petrol,automatic,FWD,121638,9.2,213.0,3,5,hatchback,red,3.0,yes,partial,UK,1718
+907,1 Series,2016,3.0,251,hybrid,automatic,RWD,154305,6.1,130.0,5,4,hatchback,black,1.0,yes,none,Netherlands,1281
+7162,3 Series,2024,2.2,207,petrol,automatic,AWD,1860,8.3,201.0,4,5,sedan,white,0.0,no,full,USA,2498
+4460,i7,2016,0.0,505,electric,automatic,RWD,130101,0.0,0.0,4,5,sedan,silver,2.0,no,full,Turkey,3350
+5206,i3,2018,0.0,185,electric,automatic,RWD,132562,0.0,0.0,5,4,hatchback,blue,4.0,no,full,France,517
+3667,5 Series,2023,3.6,290,petrol,automatic,RWD,50933,9.5,204.0,4,5,sedan,silver,0.0,no,full,Germany,1747
+9037,X3,2006,2.3,207,diesel,automatic,AWD,223836,6.8,149.0,5,5,suv,black,3.0,yes,full,Turkey,4652
+7573,3 Series,2017,2.1,234,hybrid,automatic,RWD,145341,5.0,109.0,4,5,sedan,black,3.0,no,full,UK,3732
+1088,X7,2020,4.2,383,petrol,automatic,AWD,54435,11.3,259.0,5,5,suv,blue,0.0,,none,Turkey,668
+9752,Z4,2024,2.8,284,petrol,automatic,RWD,16426,9.1,195.0,2,2,convertible,grey,1.0,no,partial,Spain,4059
+9339,X1,2005,2.5,190,hybrid,automatic,AWD,286617,4.7,99.0,5,5,suv,red,2.0,yes,partial,Spain,3026
+733,5 Series,2022,2.9,261,hybrid,automatic,AWD,34355,5.8,126.0,4,5,sedan,white,2.0,no,full,USA,4932
+3287,X7,2011,3.0,247,diesel,automatic,AWD,289579,8.0,175.0,5,5,suv,black,2.0,no,none,Turkey,3286
+6073,3 Series,2019,1.7,175,petrol,automatic,RWD,84875,8.4,174.0,4,5,sedan,black,1.0,yes,full,USA,2650
+4297,1 Series,2023,1.6,176,diesel,automatic,RWD,25169,6.2,133.0,5,5,hatchback,silver,0.0,no,partial,Spain,4453
+5315,i7,2005,0.0,304,electric,automatic,AWD,296978,0.0,0.0,4,4,sedan,white,5.0,yes,none,Turkey,3192
+4276,Z4,2015,2.0,183,petrol,manual,RWD,113828,8.3,188.0,2,2,convertible,white,3.0,no,full,Turkey,2124
+4372,7 Series,2022,0.0,474,electric,,RWD,36583,0.0,0.0,4,4,sedan,white,1.0,no,partial,Germany,3375
+5023,1 Series,2007,1.9,232,diesel,automatic,FWD,247135,6.4,143.0,5,5,hatchback,red,2.0,no,none,Spain,3392
+5466,1 Series,2015,1.8,188,petrol,automatic,RWD,200981,9.3,192.0,5,4,hatchback,black,1.0,no,full,Turkey,3485
+8800,1 Series,2013,1.8,197,diesel,,RWD,122591,7.1,160.0,5,4,hatchback,black,4.0,no,full,France,759
+7496,X7,2011,3.7,289,diesel,automatic,AWD,125822,9.8,208.0,5,5,suv,grey,3.0,no,partial,France,3379
+280,5 Series,2023,2.8,210,diesel,automatic,RWD,16640,7.3,160.0,4,5,sedan,silver,1.0,no,full,Spain,4440
+2756,5 Series,2024,3.0,318,diesel,automatic,AWD,0,7.4,168.0,4,5,sedan,black,1.0,no,none,Netherlands,2526
+9794,X1,2016,2.0,221,diesel,automatic,FWD,99144,6.8,150.0,5,5,suv,white,3.0,yes,partial,Italy,4858
+4314,i4,2013,0.0,363,electric,automatic,AWD,107430,0.0,0.0,4,5,coupe,blue,5.0,no,full,Spain,907
+3602,X5,2022,3.6,382,petrol,automatic,AWD,19952,10.9,226.0,5,5,suv,black,0.0,no,none,Netherlands,2683
+5184,X7,2021,3.6,313,diesel,automatic,AWD,49118,8.9,,5,5,suv,red,1.0,no,partial,Germany,214
+8183,Z4,2012,2.4,220,petrol,automatic,RWD,225352,9.4,225.0,2,2,convertible,white,2.0,yes,full,Turkey,3331
+5502,X7,2018,4.3,371,hybrid,automatic,AWD,109100,7.0,144.0,5,5,suv,silver,2.0,no,partial,Turkey,4458
+7932,i4,2015,0.0,375,electric,automatic,AWD,148393,0.0,0.0,4,5,coupe,silver,1.0,no,partial,Netherlands,693
+6963,3 Series,2019,1.7,171,diesel,manual,RWD,60712,5.9,127.0,4,5,sedan,black,3.0,no,full,Netherlands,1503
+5093,5 Series,2020,3.5,341,hybrid,automatic,RWD,55096,6.4,159.0,4,5,sedan,grey,1.0,no,full,Turkey,2414
+8594,3 Series,2019,,296,hybrid,automatic,AWD,58228,5.6,122.0,4,5,sedan,black,2.0,no,full,Italy,2118
+6605,X1,2017,1.9,243,hybrid,automatic,FWD,119329,4.4,105.0,5,5,suv,silver,2.0,yes,full,Italy,3858
+8963,i7,2022,0.0,395,electric,automatic,RWD,50908,0.0,0.0,4,5,sedan,blue,2.0,no,partial,Netherlands,2462
+4615,Z4,2016,2.2,239,petrol,,RWD,190713,8.1,178.0,2,2,convertible,black,2.0,no,full,USA,3635
+367,5 Series,2018,4.1,420,diesel,automatic,AWD,95830,8.9,201.0,4,5,sedan,black,1.0,no,full,Netherlands,4105
+6444,1 Series,2017,1.7,194,petrol,automatic,FWD,124138,8.0,,3,5,hatchback,,3.0,no,full,USA,4478
+1262,5 Series,2013,2.4,259,diesel,automatic,RWD,213668,7.3,141.0,4,5,sedan,silver,3.0,yes,partial,Germany,196
+2967,X5,2013,4.1,362,petrol,automatic,AWD,156955,11.2,260.0,5,5,suv,,3.0,yes,full,Spain,4667
+6158,1 Series,2017,2.9,198,petrol,manual,RWD,102902,9.0,208.0,5,4,hatchback,black,2.0,no,full,Italy,1543
+6351,X3,2010,2.1,204,diesel,automatic,RWD,235184,6.1,127.0,5,5,suv,black,3.0,no,none,Turkey,1330
+1892,i4,2010,0.0,468,electric,automatic,AWD,300000,0.0,0.0,4,5,coupe,silver,2.0,no,none,Spain,879
+2364,X1,2024,1.6,178,petrol,automatic,AWD,249,6.8,135.0,5,5,suv,red,0.0,no,full,Spain,4502
+8855,3 Series,2009,3.5,312,diesel,automatic,AWD,163534,9.2,213.0,4,5,sedan,silver,3.0,no,partial,Italy,3501
+4687,X1,2007,2.2,233,petrol,automatic,AWD,267835,7.0,152.0,5,5,suv,blue,2.0,yes,none,France,3894
+4205,1 Series,2022,1.6,134,petrol,automatic,RWD,30531,7.6,165.0,5,5,hatchback,silver,1.0,no,full,Turkey,4990
+170,1 Series,2019,1.9,225,petrol,automatic,RWD,64771,7.4,157.0,3,4,hatchback,silver,2.0,no,partial,USA,887
+6976,X3,2010,3.3,322,diesel,automatic,AWD,300000,7.8,160.0,5,5,suv,black,4.0,yes,partial,Netherlands,1345
+6232,5 Series,2017,2.5,196,petrol,automatic,RWD,88270,8.9,206.0,4,5,sedan,silver,2.0,no,partial,USA,68
+2307,X1,2019,1.7,147,diesel,automatic,FWD,150491,6.2,139.0,5,5,suv,black,1.0,no,partial,Spain,4210
+1826,X1,2007,2.1,207,diesel,automatic,FWD,186054,6.6,133.0,5,5,suv,silver,4.0,yes,partial,UK,1815
+2150,7 Series,2023,4.4,380,petrol,,AWD,5498,10.0,218.0,4,4,sedan,white,0.0,yes,partial,Netherlands,568
+9250,5 Series,2020,2.0,145,diesel,automatic,AWD,54110,7.3,161.0,4,5,sedan,black,1.0,no,full,Germany,2167
+9190,Z4,2018,2.2,213,petrol,automatic,RWD,56768,8.0,181.0,2,2,convertible,blue,1.0,no,partial,UK,96
+3323,1 Series,2015,3.0,315,petrol,automatic,RWD,204284,10.3,231.0,5,5,hatchback,silver,2.0,yes,full,Turkey,4181
+5741,5 Series,2010,2.3,187,hybrid,automatic,RWD,212696,4.5,93.0,4,5,sedan,blue,3.0,no,none,Italy,3353
+8792,3 Series,2015,,229,diesel,automatic,AWD,159723,7.0,153.0,4,5,sedan,silver,2.0,yes,partial,Germany,139
+6826,X3,2006,3.0,252,diesel,automatic,AWD,300000,7.3,157.0,5,5,suv,,3.0,no,full,Italy,4954
+5860,X5,2015,4.2,399,hybrid,automatic,AWD,146418,6.8,139.0,5,5,suv,black,2.0,no,full,Turkey,2602
+627,X1,2016,2.3,164,petrol,automatic,AWD,126358,7.9,190.0,5,5,suv,blue,3.0,no,full,Spain,4023
+5453,5 Series,2009,3.1,337,diesel,automatic,AWD,233887,8.2,179.0,4,5,sedan,grey,5.0,no,partial,UK,4772
+3814,X7,2017,3.1,266,hybrid,automatic,AWD,110897,5.1,122.0,5,5,suv,black,1.0,no,full,Netherlands,1606
+2013,X3,2019,2.9,242,petrol,automatic,RWD,25798,9.4,212.0,5,5,suv,blue,2.0,yes,full,Turkey,1629
+3061,X3,2022,2.3,240,diesel,automatic,RWD,60442,6.5,137.0,5,5,suv,blue,0.0,no,full,Italy,1539
+9630,X1,2023,,122,diesel,automatic,FWD,16216,6.0,130.0,5,5,suv,white,0.0,yes,full,Italy,1694
+5757,X3,2024,3.4,339,hybrid,automatic,RWD,0,5.9,127.0,5,5,suv,black,0.0,no,full,Italy,2059
+7743,7 Series,2011,0.0,337,electric,automatic,RWD,112919,0.0,0.0,4,5,sedan,black,2.0,no,full,France,463
+4581,3 Series,2010,2.7,314,hybrid,automatic,RWD,193123,5.9,127.0,4,5,sedan,grey,3.0,yes,partial,Netherlands,2330
+774,i3,2011,0.0,204,electric,automatic,RWD,138178,0.0,0.0,5,4,hatchback,white,3.0,no,full,Italy,3043
+9304,3 Series,2022,,241,petrol,automatic,AWD,36699,8.4,197.0,4,5,sedan,grey,1.0,yes,full,USA,4734
+4140,X3,2012,2.2,254,diesel,automatic,AWD,126392,6.2,144.0,5,5,suv,white,4.0,yes,full,Italy,594
+735,X5,2019,4.0,327,hybrid,automatic,AWD,84696,7.1,142.0,5,5,suv,white,2.0,yes,partial,France,3814
+8709,1 Series,2006,2.1,260,petrol,manual,RWD,235719,9.0,189.0,5,4,hatchback,white,3.0,yes,none,Spain,625
+569,1 Series,2010,2.9,329,hybrid,automatic,RWD,280095,5.9,136.0,3,4,hatchback,,2.0,no,full,Turkey,450
+3296,7 Series,2023,0.0,438,electric,automatic,AWD,13019,0.0,0.0,4,4,sedan,,0.0,yes,full,Italy,1499
+9013,3 Series,2023,2.1,298,hybrid,automatic,RWD,23216,5.4,105.0,4,5,sedan,white,0.0,yes,partial,Spain,2456
+7423,X5,2020,4.1,316,petrol,automatic,AWD,86941,11.2,258.0,5,5,suv,silver,2.0,no,full,Italy,4722
+801,X7,2018,3.5,288,hybrid,automatic,AWD,89040,6.1,144.0,5,5,suv,grey,1.0,no,partial,Netherlands,2984
+9511,i4,2023,0.0,369,electric,automatic,AWD,1712,0.0,0.0,4,5,coupe,grey,1.0,no,full,Germany,1569
+8986,X3,2023,2.4,270,hybrid,automatic,RWD,33827,5.8,129.0,5,5,suv,black,0.0,no,full,Germany,1034
+2922,X3,2017,2.7,265,diesel,automatic,RWD,105569,6.8,141.0,5,5,suv,black,3.0,yes,none,Spain,3518
+2733,i7,2022,0.0,523,electric,automatic,RWD,61638,0.0,0.0,4,4,sedan,black,0.0,no,full,Turkey,1557
+9961,X7,2016,4.4,362,petrol,automatic,AWD,116350,9.9,219.0,5,5,suv,white,1.0,no,partial,USA,3624
+3218,7 Series,2018,4.9,387,petrol,automatic,RWD,181639,12.4,269.0,4,4,sedan,white,2.0,no,partial,Spain,4664
+6006,7 Series,2021,4.4,302,hybrid,automatic,AWD,39787,7.4,,4,4,sedan,black,0.0,no,full,Netherlands,150
+1738,1 Series,2019,2.2,207,hybrid,automatic,RWD,76837,5.0,103.0,5,4,hatchback,grey,2.0,no,partial,USA,1420
+169,3 Series,2018,2.2,194,hybrid,automatic,AWD,70591,4.9,118.0,4,5,sedan,white,3.0,no,partial,USA,2011
+2143,X3,2005,2.5,250,petrol,automatic,AWD,224750,9.3,206.0,5,5,suv,black,5.0,no,none,Spain,2686
+9143,X7,2024,3.5,308,diesel,,AWD,0,8.5,195.0,5,5,suv,black,0.0,no,,USA,1786
+9002,i7,2017,0.0,576,electric,automatic,AWD,90789,0.0,0.0,4,5,sedan,white,4.0,yes,partial,Netherlands,88
+7202,X5,2009,3.8,324,hybrid,automatic,AWD,200959,6.1,128.0,5,5,suv,silver,2.0,yes,partial,UK,457
+748,X1,2023,2.2,154,petrol,automatic,AWD,22930,8.4,178.0,5,5,suv,silver,0.0,no,full,France,1305
+4170,i3,2018,,186,electric,automatic,RWD,67930,0.0,0.0,5,4,hatchback,silver,4.0,no,partial,Spain,2925
+4305,3 Series,2023,2.8,265,hybrid,automatic,RWD,31560,5.1,138.0,4,5,sedan,black,0.0,no,full,Netherlands,3270
+5318,1 Series,2015,2.0,182,petrol,automatic,RWD,149687,7.0,158.0,3,4,hatchback,white,2.0,no,partial,Italy,3227
+8899,X3,2021,3.4,324,diesel,automatic,RWD,77955,8.6,190.0,5,5,suv,silver,1.0,yes,full,USA,1988
+7356,Z4,2022,2.2,194,petrol,automatic,RWD,28119,8.8,198.0,2,2,convertible,white,0.0,no,full,Spain,3754
+3995,X1,2014,1.6,210,hybrid,automatic,FWD,151046,4.1,105.0,5,5,suv,white,2.0,no,full,Netherlands,3646
+1184,X1,2008,2.2,192,diesel,automatic,FWD,231775,6.9,149.0,5,5,suv,black,4.0,yes,partial,Italy,831
+8820,X3,2012,2.3,254,hybrid,,RWD,235400,5.4,123.0,5,5,suv,red,5.0,no,full,Italy,239
+3302,X3,2019,3.3,307,diesel,automatic,RWD,84167,8.5,197.0,5,5,suv,blue,3.0,yes,full,Spain,4681
+4061,5 Series,2024,3.6,331,diesel,automatic,AWD,0,8.8,194.0,4,5,sedan,silver,0.0,yes,full,Italy,3022
+3621,X3,2023,2.4,209,diesel,,AWD,24088,6.4,145.0,5,5,suv,black,0.0,no,full,UK,3148
+6912,i3,2008,0.0,225,electric,automatic,RWD,298175,0.0,0.0,5,4,hatchback,black,5.0,yes,full,France,1946
+8132,i3,2011,0.0,193,electric,automatic,RWD,196968,0.0,0.0,5,4,hatchback,black,2.0,no,partial,Spain,2775
+4270,3 Series,2020,2.5,218,petrol,automatic,RWD,51071,8.6,184.0,4,5,sedan,blue,1.0,no,full,UK,192
+7863,i4,2012,0.0,316,electric,automatic,RWD,145978,0.0,0.0,4,5,coupe,red,3.0,no,full,USA,4849
+3114,i7,2023,0.0,463,electric,automatic,AWD,11140,0.0,0.0,4,4,sedan,white,0.0,yes,full,France,4939
+4171,X3,2021,2.7,243,diesel,automatic,RWD,33589,7.0,139.0,5,5,suv,white,2.0,no,full,Netherlands,944
+9347,3 Series,2024,2.7,249,diesel,automatic,RWD,1173,7.7,178.0,4,5,sedan,red,0.0,no,full,Germany,1268
+3986,i4,2014,0.0,338,electric,automatic,RWD,87783,0.0,0.0,4,5,coupe,black,3.0,yes,full,Spain,4231
+9799,3 Series,2006,1.7,135,petrol,manual,RWD,294196,8.1,180.0,4,5,sedan,white,2.0,no,partial,UK,2307
+8078,X5,2019,,301,diesel,automatic,AWD,111077,9.1,202.0,5,5,suv,black,3.0,no,full,Turkey,4424
+6139,5 Series,2019,3.2,319,petrol,automatic,RWD,59067,10.1,235.0,4,5,sedan,silver,3.0,no,full,Turkey,4711
+8166,i7,2008,0.0,551,electric,automatic,RWD,106002,0.0,0.0,4,4,sedan,white,2.0,,partial,Spain,2313
+9028,i7,2022,0.0,512,electric,automatic,AWD,18441,0.0,0.0,4,4,sedan,white,,yes,full,USA,3214
+403,3 Series,2018,2.1,181,hybrid,automatic,RWD,61917,4.8,107.0,4,5,sedan,silver,2.0,no,partial,Italy,2732
+6914,3 Series,2023,1.9,187,diesel,automatic,RWD,0,,115.0,4,5,sedan,blue,0.0,no,full,USA,1926
